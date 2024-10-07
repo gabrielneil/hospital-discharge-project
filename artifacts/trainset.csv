@@ -1,0 +1,1001 @@
+main_diagnosis,type_of_care_discharge_needed,care_level,heart_rate_at_admission,temperature_at_admission,gender,care_duration_in_days_until_search_started,co_morbidities,mobility,discharge_time_days,systolic_pressure,diastolic_pressure
+Heart failure (ICD-10: I50),home care,3,82,36.5,female,0.0,Chronic Kidney Disease,walk with help,12.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,3,63,36.9,diverse,0.0,Chronic Pain,walk with help,0.0,120,80
+Asthma (ICD-10: J45),no_needed,4,86,37.6,female,0.0,Obesity,walk with help,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,4,77,37.4,female,0.0,Obesity,wheelchair,0.0,140,90
+Heart failure (ICD-10: I50),short term stationary care,unknown,80,36.3,male,0.0,None,walk with help,11.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,1,87,37.2,diverse,28.0,Chronic Kidney Disease,wheelchair,4.0,130,85
+Heart failure (ICD-10: I50),stationary care,unknown,94,36.0,male,28.0,Heart Disease,walk with help,14.0,150,95
+Asthma (ICD-10: J45),no_needed,unknown,81,37.0,male,0.0,Obesity,walk without help,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,3,99,37.9,diverse,0.0,Hypertension,wheelchair,0.0,120,80
+Acute appendicitis (ICD-10: K35),stationary care,2,82,36.5,male,0.0,"Hypertension, Obesity",walk without help,19.0,130,85
+Asthma (ICD-10: J45),mobile care,3,62,36.6,diverse,0.0,Chronic Kidney Disease,walk with help,8.0,140,90
+Asthma (ICD-10: J45),mobile care,1,99,37.4,male,28.0,Obesity,walk with help,9.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,0,69,36.2,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,84,36.7,diverse,0.0,Chronic Pain,walk with help,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,4,67,37.3,diverse,0.0,Obesity,walk without help,0.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,1,70,36.7,female,0.0,Chronic Pain,walk with help,0.0,110,70
+Asthma (ICD-10: J45),no_needed,unknown,64,36.9,male,0.0,"Diabetes, Asthma",walk with help,0.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,2,96,37.4,female,0.0,"Hypertension, Obesity",wheelchair,8.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,4,97,37.2,male,0.0,None,walk without help,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,5,88,37.1,male,0.0,Chronic Pain,walk with help,0.0,120,80
+Hypertension (ICD-10: I10),no_needed,unknown,64,36.8,male,0.0,Obesity,walk without help,0.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,68,37.2,female,0.0,"Hypertension, Diabetes",wheelchair,0.0,110,70
+Chronic kidney disease (ICD-10: N18),stationary care,5,61,36.9,male,0.0,None,walk without help,7.0,150,95
+Hypertension (ICD-10: I10),no_needed,1,60,37.2,female,0.0,None,wheelchair,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,1,99,36.8,diverse,0.0,Heart Disease,walk without help,9.0,120,80
+Heart failure (ICD-10: I50),mobile care,unknown,89,36.9,male,0.0,Chronic Pain,walk without help,11.0,140,90
+Acute appendicitis (ICD-10: K35),no_needed,4,70,36.5,male,0.0,"Hypertension, Diabetes",wheelchair,0.0,130,85
+Chronic kidney disease (ICD-10: N18),home care,3,87,37.0,diverse,0.0,Chronic Pain,walk with help,9.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,5,71,36.6,diverse,60.0,Heart Disease,walk with help,3.0,110,70
+Lower back pain (ICD-10: M54),no_needed,2,98,36.4,male,0.0,"Hypertension, Obesity",walk with help,0.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,4,85,37.1,diverse,0.0,Obesity,walk without help,6.0,120,80
+Heart failure (ICD-10: I50),mobile care,2,72,37.1,female,0.0,Chronic Pain,walk without help,13.0,140,90
+Lower back pain (ICD-10: M54),no_needed,4,67,37.4,female,0.0,Heart Disease,walk with help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),short term stationary care,3,87,36.8,male,180.0,Chronic Kidney Disease,walk without help,7.0,110,70
+Heart failure (ICD-10: I50),short term stationary care,3,89,37.2,female,0.0,Obesity,walk without help,12.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,unknown,68,37.3,female,0.0,Chronic Pain,walk with help,0.0,130,85
+Acute appendicitis (ICD-10: K35),home care,unknown,98,37.2,male,0.0,Chronic Kidney Disease,wheelchair,18.0,120,80
+Chronic kidney disease (ICD-10: N18),no_needed,3,90,36.6,diverse,0.0,Obesity,walk without help,0.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),home care,0,80,37.1,male,0.0,Chronic Kidney Disease,walk without help,3.0,150,95
+Chronic kidney disease (ICD-10: N18),home care,3,93,37.2,female,0.0,None,walk without help,4.0,110,70
+Lower back pain (ICD-10: M54),stationary care,1,90,37.0,male,0.0,Chronic Pain,walk without help,8.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,1,84,36.0,male,0.0,Heart Disease,wheelchair,0.0,150,95
+Acute appendicitis (ICD-10: K35),no_needed,0,71,37.1,female,0.0,Obesity,walk with help,0.0,140,90
+Heart failure (ICD-10: I50),mobile care,5,60,38.1,female,0.0,Chronic Pain,walk without help,14.0,120,80
+Asthma (ICD-10: J45),no_needed,2,81,36.8,male,0.0,Obesity,walk with help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,4,99,36.6,female,0.0,Obesity,walk without help,3.0,120,80
+Hypertension (ICD-10: I10),no_needed,4,96,37.2,female,0.0,Chronic Kidney Disease,wheelchair,0.0,140,90
+Acute appendicitis (ICD-10: K35),stationary care,0,60,37.2,female,180.0,Chronic Kidney Disease,walk with help,18.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),home care,1,60,37.6,female,0.0,"Hypertension, Diabetes",wheelchair,9.0,120,80
+Asthma (ICD-10: J45),no_needed,unknown,80,36.4,female,0.0,Chronic Pain,walk without help,0.0,150,95
+Acute appendicitis (ICD-10: K35),mobile care,4,74,37.4,female,60.0,"Diabetes, Asthma",wheelchair,19.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),home care,1,76,37.3,diverse,0.0,Hypertension,wheelchair,7.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,5,81,36.9,male,0.0,"Diabetes, Asthma",walk without help,5.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),home care,2,97,37.2,female,0.0,Obesity,walk without help,5.0,140,90
+Acute appendicitis (ICD-10: K35),home care,5,94,37.5,male,60.0,"Hypertension, Diabetes",walk with help,16.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,0,75,37.4,diverse,0.0,Obesity,walk without help,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,3,67,36.4,female,0.0,"Diabetes, Asthma",walk with help,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,3,76,37.4,male,0.0,Obesity,wheelchair,3.0,130,85
+Acute appendicitis (ICD-10: K35),short term stationary care,3,76,37.0,female,0.0,Chronic Kidney Disease,wheelchair,18.0,120,80
+Asthma (ICD-10: J45),no_needed,5,85,37.0,female,0.0,Chronic Pain,walk with help,0.0,110,70
+Heart failure (ICD-10: I50),short term stationary care,4,72,37.0,female,0.0,"Diabetes, Asthma",walk without help,10.0,110,70
+Chronic kidney disease (ICD-10: N18),mobile care,2,76,36.9,female,0.0,Hypertension,walk without help,9.0,110,70
+Asthma (ICD-10: J45),stationary care,3,97,37.6,female,0.0,Hypertension,wheelchair,6.0,130,85
+Lower back pain (ICD-10: M54),short term stationary care,0,76,37.0,female,21.0,Chronic Kidney Disease,walk with help,3.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,0,73,36.4,female,0.0,Chronic Pain,wheelchair,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,3,65,36.8,diverse,0.0,"Hypertension, Obesity",wheelchair,0.0,150,95
+Asthma (ICD-10: J45),no_needed,3,94,37.1,diverse,0.0,"Hypertension, Obesity",walk without help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),no_needed,2,73,37.6,female,0.0,Heart Disease,walk with help,0.0,130,85
+Chronic kidney disease (ICD-10: N18),no_needed,3,67,37.3,female,0.0,Heart Disease,wheelchair,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,2,74,36.6,diverse,0.0,"Diabetes, Asthma",walk without help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,0,86,38.2,diverse,0.0,Chronic Kidney Disease,wheelchair,5.0,130,85
+Heart failure (ICD-10: I50),mobile care,3,72,37.1,diverse,0.0,Chronic Kidney Disease,wheelchair,11.0,110,70
+Chronic kidney disease (ICD-10: N18),stationary care,5,90,37.6,female,180.0,Obesity,walk without help,4.0,110,70
+Asthma (ICD-10: J45),mobile care,unknown,94,36.9,male,0.0,Hypertension,walk without help,8.0,120,80
+Hypertension (ICD-10: I10),no_needed,5,65,37.3,male,0.0,Hypertension,walk with help,0.0,120,80
+Asthma (ICD-10: J45),no_needed,0,64,37.4,male,0.0,Hypertension,wheelchair,0.0,110,70
+Asthma (ICD-10: J45),no_needed,2,81,37.6,male,0.0,"Hypertension, Diabetes",walk with help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,5,82,37.5,female,180.0,Chronic Pain,walk without help,4.0,140,90
+Hypertension (ICD-10: I10),no_needed,2,84,37.4,male,0.0,None,walk without help,0.0,150,95
+Asthma (ICD-10: J45),mobile care,5,93,36.8,diverse,0.0,Obesity,wheelchair,6.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,5,85,36.7,diverse,0.0,"Hypertension, Obesity",walk with help,9.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,2,64,37.2,male,0.0,Chronic Kidney Disease,walk with help,8.0,120,80
+Hypertension (ICD-10: I10),no_needed,4,85,37.5,diverse,0.0,"Hypertension, Obesity",wheelchair,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,5,79,36.9,female,0.0,"Hypertension, Diabetes",wheelchair,0.0,150,95
+Heart failure (ICD-10: I50),mobile care,3,65,37.5,male,28.0,"Hypertension, Obesity",walk with help,14.0,120,80
+Chronic kidney disease (ICD-10: N18),mobile care,unknown,65,37.7,male,28.0,Hypertension,walk without help,6.0,110,70
+Heart failure (ICD-10: I50),stationary care,0,77,36.5,female,0.0,Obesity,walk without help,13.0,150,95
+Chronic kidney disease (ICD-10: N18),stationary care,4,63,36.6,diverse,0.0,Heart Disease,wheelchair,6.0,140,90
+Asthma (ICD-10: J45),no_needed,2,76,36.9,female,0.0,None,walk with help,0.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,4,73,37.2,female,0.0,Chronic Kidney Disease,walk with help,0.0,130,85
+Hypertension (ICD-10: I10),no_needed,1,73,36.7,diverse,0.0,"Hypertension, Diabetes",walk with help,0.0,120,80
+Heart failure (ICD-10: I50),no_needed,1,72,37.7,female,0.0,Chronic Kidney Disease,walk without help,0.0,140,90
+Heart failure (ICD-10: I50),short term stationary care,5,66,37.2,diverse,0.0,None,walk without help,14.0,150,95
+Asthma (ICD-10: J45),no_needed,5,74,37.0,diverse,0.0,Chronic Kidney Disease,walk with help,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,3,78,36.3,female,0.0,Chronic Pain,walk with help,0.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,unknown,94,36.3,diverse,0.0,Chronic Kidney Disease,wheelchair,6.0,110,70
+Asthma (ICD-10: J45),no_needed,0,76,37.1,female,0.0,Heart Disease,wheelchair,0.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,94,35.9,diverse,0.0,Obesity,walk with help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,1,78,37.5,male,60.0,Obesity,walk with help,3.0,110,70
+Hypertension (ICD-10: I10),no_needed,5,79,36.9,diverse,0.0,"Hypertension, Obesity",walk without help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,0,95,38.6,diverse,180.0,"Diabetes, Asthma",walk with help,6.0,150,95
+Lower back pain (ICD-10: M54),no_needed,4,94,38.2,female,0.0,Hypertension,wheelchair,0.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,5,91,36.9,diverse,0.0,None,walk without help,5.0,150,95
+Hypertension (ICD-10: I10),no_needed,5,99,36.9,male,0.0,"Hypertension, Diabetes",wheelchair,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,1,83,37.5,male,0.0,Obesity,wheelchair,0.0,130,85
+Heart failure (ICD-10: I50),stationary care,1,76,37.9,diverse,0.0,"Hypertension, Obesity",walk without help,14.0,120,80
+Heart failure (ICD-10: I50),mobile care,5,66,36.2,diverse,0.0,Chronic Kidney Disease,wheelchair,13.0,120,80
+Chronic kidney disease (ICD-10: N18),stationary care,2,60,36.1,male,0.0,Hypertension,walk with help,6.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,5,94,36.7,female,0.0,Hypertension,wheelchair,9.0,150,95
+Heart failure (ICD-10: I50),mobile care,0,91,37.3,male,0.0,"Diabetes, Asthma",walk without help,14.0,130,85
+Hypertension (ICD-10: I10),mobile care,5,95,37.2,male,28.0,Chronic Pain,walk without help,4.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,3,72,37.5,diverse,0.0,"Diabetes, Asthma",walk without help,0.0,130,85
+Acute appendicitis (ICD-10: K35),short term stationary care,unknown,65,36.4,diverse,0.0,Chronic Kidney Disease,wheelchair,16.0,130,85
+Lower back pain (ICD-10: M54),no_needed,3,73,35.8,male,0.0,Heart Disease,walk with help,0.0,150,95
+Heart failure (ICD-10: I50),stationary care,3,96,37.4,female,28.0,None,walk without help,14.0,110,70
+Heart failure (ICD-10: I50),short term stationary care,2,74,36.6,male,28.0,Hypertension,walk with help,14.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,2,63,36.0,male,0.0,"Hypertension, Diabetes",walk without help,0.0,150,95
+Heart failure (ICD-10: I50),short term stationary care,5,99,37.1,female,28.0,"Hypertension, Diabetes",walk with help,14.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,3,75,37.4,male,0.0,"Hypertension, Obesity",walk with help,0.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,2,87,36.9,male,0.0,"Hypertension, Diabetes",walk with help,0.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,1,75,36.8,diverse,0.0,Hypertension,walk without help,0.0,120,80
+Chronic kidney disease (ICD-10: N18),stationary care,5,63,36.9,female,28.0,Hypertension,wheelchair,7.0,120,80
+Lower back pain (ICD-10: M54),home care,0,85,36.8,diverse,0.0,Hypertension,wheelchair,6.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,unknown,87,36.3,diverse,60.0,None,wheelchair,8.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,4,91,36.6,female,0.0,Obesity,walk with help,0.0,110,70
+Heart failure (ICD-10: I50),mobile care,5,61,37.3,female,28.0,Chronic Pain,walk without help,14.0,140,90
+Chronic kidney disease (ICD-10: N18),mobile care,4,90,37.2,male,0.0,Chronic Kidney Disease,walk with help,5.0,140,90
+Heart failure (ICD-10: I50),home care,3,62,37.1,diverse,0.0,Chronic Kidney Disease,walk without help,14.0,130,85
+Hypertension (ICD-10: I10),no_needed,unknown,67,36.5,female,0.0,"Hypertension, Obesity",walk with help,0.0,130,85
+Hypertension (ICD-10: I10),no_needed,4,83,36.9,diverse,0.0,"Diabetes, Asthma",walk without help,0.0,120,80
+Chronic kidney disease (ICD-10: N18),stationary care,3,74,35.9,diverse,0.0,None,walk without help,5.0,140,90
+Chronic kidney disease (ICD-10: N18),no_needed,1,90,37.1,female,0.0,Obesity,walk without help,0.0,130,85
+Acute appendicitis (ICD-10: K35),no_needed,4,68,37.7,male,0.0,Heart Disease,walk with help,0.0,110,70
+Chronic kidney disease (ICD-10: N18),home care,unknown,98,36.3,diverse,0.0,"Hypertension, Obesity",wheelchair,5.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,5,61,36.7,female,0.0,Obesity,walk with help,9.0,130,85
+Heart failure (ICD-10: I50),no_needed,3,67,37.2,male,0.0,Hypertension,walk with help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,5,66,37.6,diverse,0.0,"Diabetes, Asthma",walk without help,0.0,140,90
+Asthma (ICD-10: J45),no_needed,unknown,98,36.8,female,0.0,"Diabetes, Asthma",walk without help,0.0,150,95
+Chronic kidney disease (ICD-10: N18),no_needed,2,75,36.7,diverse,0.0,Chronic Kidney Disease,wheelchair,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,3,94,36.0,female,0.0,Chronic Pain,wheelchair,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,4,89,37.1,female,0.0,Chronic Pain,walk without help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,3,69,38.0,diverse,60.0,Heart Disease,wheelchair,4.0,110,70
+Asthma (ICD-10: J45),stationary care,5,97,37.1,diverse,0.0,"Diabetes, Asthma",wheelchair,7.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),home care,1,77,37.0,female,0.0,Hypertension,walk without help,3.0,140,90
+Asthma (ICD-10: J45),short term stationary care,3,64,37.2,male,0.0,Hypertension,walk with help,7.0,110,70
+Chronic kidney disease (ICD-10: N18),stationary care,4,88,37.0,diverse,60.0,"Hypertension, Diabetes",wheelchair,9.0,140,90
+Acute appendicitis (ICD-10: K35),no_needed,2,98,36.6,female,0.0,Hypertension,walk without help,0.0,130,85
+Hypertension (ICD-10: I10),short term stationary care,0,93,37.4,female,0.0,Obesity,wheelchair,6.0,150,95
+Hypertension (ICD-10: I10),no_needed,1,82,37.1,male,0.0,Chronic Pain,wheelchair,0.0,130,85
+Acute appendicitis (ICD-10: K35),no_needed,2,64,37.0,male,0.0,Hypertension,walk without help,0.0,140,90
+Heart failure (ICD-10: I50),stationary care,3,89,36.5,male,0.0,None,wheelchair,10.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,5,65,37.7,diverse,0.0,Hypertension,wheelchair,5.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,unknown,63,37.3,female,0.0,"Hypertension, Diabetes",wheelchair,6.0,120,80
+Hypertension (ICD-10: I10),no_needed,5,88,36.7,female,0.0,Heart Disease,walk with help,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,4,82,37.5,female,0.0,Heart Disease,walk with help,0.0,120,80
+Hypertension (ICD-10: I10),no_needed,5,65,36.8,male,0.0,"Diabetes, Asthma",wheelchair,0.0,140,90
+Asthma (ICD-10: J45),no_needed,1,91,36.6,female,0.0,Hypertension,walk without help,0.0,110,70
+Hypertension (ICD-10: I10),stationary care,5,77,36.6,diverse,0.0,Chronic Pain,wheelchair,7.0,140,90
+Hypertension (ICD-10: I10),no_needed,4,74,36.1,male,0.0,Heart Disease,wheelchair,0.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,0,99,37.2,male,0.0,"Diabetes, Asthma",walk with help,0.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,3,91,36.1,male,0.0,Hypertension,walk with help,9.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,unknown,68,36.4,male,0.0,Heart Disease,walk with help,8.0,110,70
+Heart failure (ICD-10: I50),mobile care,3,96,36.0,diverse,0.0,Heart Disease,wheelchair,13.0,120,80
+Lower back pain (ICD-10: M54),no_needed,5,69,37.0,female,0.0,Hypertension,wheelchair,0.0,140,90
+Hypertension (ICD-10: I10),mobile care,2,79,36.9,diverse,21.0,"Hypertension, Obesity",walk without help,9.0,130,85
+Hypertension (ICD-10: I10),no_needed,3,65,36.8,female,0.0,Hypertension,wheelchair,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,0,62,36.5,diverse,0.0,Obesity,wheelchair,4.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,5,70,36.4,male,0.0,Heart Disease,walk with help,0.0,150,95
+Lower back pain (ICD-10: M54),home care,unknown,76,37.2,male,0.0,Chronic Pain,walk with help,4.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,91,36.7,diverse,0.0,"Hypertension, Obesity",walk with help,0.0,140,90
+Heart failure (ICD-10: I50),stationary care,0,63,37.2,diverse,0.0,"Hypertension, Diabetes",walk with help,14.0,150,95
+Acute appendicitis (ICD-10: K35),home care,5,63,36.6,female,0.0,"Diabetes, Asthma",walk with help,15.0,140,90
+Heart failure (ICD-10: I50),no_needed,0,76,37.1,diverse,0.0,Hypertension,walk without help,0.0,110,70
+Asthma (ICD-10: J45),stationary care,3,78,37.7,diverse,0.0,Chronic Pain,walk without help,4.0,130,85
+Hypertension (ICD-10: I10),home care,unknown,64,37.3,female,0.0,"Hypertension, Diabetes",walk without help,9.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,91,36.8,female,0.0,"Hypertension, Diabetes",walk with help,0.0,150,95
+Asthma (ICD-10: J45),mobile care,5,81,37.1,female,0.0,Heart Disease,walk with help,4.0,110,70
+Lower back pain (ICD-10: M54),no_needed,1,65,36.9,diverse,0.0,Obesity,walk with help,0.0,120,80
+Acute appendicitis (ICD-10: K35),home care,4,94,37.0,female,0.0,Heart Disease,walk without help,15.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,1,81,36.8,male,21.0,"Diabetes, Asthma",walk with help,7.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),home care,0,60,36.9,male,60.0,"Hypertension, Obesity",walk without help,3.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,2,79,37.1,male,0.0,None,walk with help,8.0,120,80
+Hypertension (ICD-10: I10),mobile care,4,81,36.5,diverse,0.0,"Hypertension, Obesity",wheelchair,4.0,120,80
+Chronic kidney disease (ICD-10: N18),mobile care,0,70,36.5,male,180.0,"Diabetes, Asthma",walk without help,7.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,72,36.3,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,3,62,36.2,diverse,0.0,"Hypertension, Obesity",walk without help,4.0,120,80
+Acute appendicitis (ICD-10: K35),home care,3,68,36.4,male,28.0,Hypertension,walk with help,18.0,130,85
+Acute appendicitis (ICD-10: K35),short term stationary care,2,71,37.1,female,28.0,Heart Disease,walk with help,17.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,4,82,36.6,diverse,21.0,None,wheelchair,9.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,4,73,37.3,male,0.0,Chronic Pain,walk with help,9.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,4,92,37.0,diverse,0.0,Hypertension,walk without help,3.0,130,85
+Acute appendicitis (ICD-10: K35),short term stationary care,0,77,36.0,female,0.0,"Hypertension, Obesity",walk with help,18.0,120,80
+Heart failure (ICD-10: I50),mobile care,unknown,68,37.3,female,0.0,Chronic Kidney Disease,walk with help,10.0,130,85
+Acute appendicitis (ICD-10: K35),short term stationary care,unknown,82,37.4,male,0.0,"Hypertension, Diabetes",walk without help,18.0,130,85
+Chronic kidney disease (ICD-10: N18),no_needed,2,69,36.5,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,4,78,37.2,diverse,0.0,Chronic Kidney Disease,wheelchair,0.0,130,85
+Asthma (ICD-10: J45),no_needed,0,64,36.6,diverse,0.0,"Hypertension, Obesity",walk with help,0.0,140,90
+Heart failure (ICD-10: I50),home care,3,82,37.0,diverse,0.0,"Hypertension, Diabetes",walk without help,12.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,1,89,36.4,male,0.0,Obesity,wheelchair,0.0,140,90
+Asthma (ICD-10: J45),stationary care,0,84,36.1,female,0.0,"Hypertension, Diabetes",wheelchair,9.0,150,95
+Hypertension (ICD-10: I10),home care,unknown,87,36.8,male,0.0,None,walk with help,9.0,120,80
+Chronic kidney disease (ICD-10: N18),stationary care,unknown,93,36.9,diverse,0.0,Obesity,walk without help,9.0,110,70
+Chronic kidney disease (ICD-10: N18),home care,3,84,36.8,diverse,180.0,"Diabetes, Asthma",wheelchair,7.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),home care,3,69,36.4,female,60.0,"Diabetes, Asthma",walk with help,4.0,150,95
+Heart failure (ICD-10: I50),no_needed,1,73,36.8,diverse,0.0,Obesity,walk with help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,3,89,37.1,male,0.0,Hypertension,walk with help,9.0,120,80
+Heart failure (ICD-10: I50),home care,2,84,37.0,male,21.0,Hypertension,walk with help,11.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,1,73,37.1,female,0.0,None,wheelchair,7.0,130,85
+Acute appendicitis (ICD-10: K35),no_needed,3,94,36.7,male,0.0,Heart Disease,walk without help,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,5,93,37.6,male,0.0,"Hypertension, Obesity",walk with help,0.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,0,69,36.4,male,180.0,Obesity,walk with help,5.0,120,80
+Hypertension (ICD-10: I10),no_needed,3,94,37.2,male,0.0,Chronic Kidney Disease,wheelchair,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,2,70,37.6,diverse,0.0,Chronic Pain,walk with help,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,4,70,37.2,male,0.0,"Hypertension, Obesity",walk with help,0.0,120,80
+Heart failure (ICD-10: I50),mobile care,3,80,36.9,female,0.0,None,walk without help,11.0,130,85
+Chronic kidney disease (ICD-10: N18),short term stationary care,unknown,80,36.7,female,0.0,Obesity,walk with help,3.0,130,85
+Chronic kidney disease (ICD-10: N18),home care,unknown,81,37.5,male,0.0,"Diabetes, Asthma",wheelchair,3.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,unknown,66,36.3,female,28.0,"Hypertension, Obesity",walk without help,4.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,4,76,36.5,male,0.0,Hypertension,wheelchair,8.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,unknown,61,36.8,female,60.0,Chronic Kidney Disease,walk without help,7.0,150,95
+Acute appendicitis (ICD-10: K35),mobile care,5,71,37.6,female,0.0,"Hypertension, Obesity",walk without help,18.0,110,70
+Asthma (ICD-10: J45),home care,3,77,37.2,male,0.0,Chronic Pain,walk with help,5.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,unknown,70,36.5,male,28.0,None,walk with help,6.0,120,80
+Asthma (ICD-10: J45),mobile care,1,75,36.8,diverse,0.0,None,walk with help,9.0,150,95
+Hypertension (ICD-10: I10),stationary care,4,77,36.7,male,0.0,None,wheelchair,7.0,140,90
+Asthma (ICD-10: J45),no_needed,5,94,36.6,male,0.0,None,walk with help,0.0,130,85
+Acute appendicitis (ICD-10: K35),stationary care,1,85,37.5,diverse,0.0,Chronic Pain,walk with help,17.0,140,90
+Hypertension (ICD-10: I10),home care,1,75,36.3,male,0.0,None,walk without help,8.0,150,95
+Asthma (ICD-10: J45),short term stationary care,1,65,37.8,male,0.0,Chronic Kidney Disease,walk with help,4.0,130,85
+Acute appendicitis (ICD-10: K35),stationary care,1,71,37.4,diverse,0.0,Heart Disease,walk with help,16.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,3,72,37.5,male,28.0,"Diabetes, Asthma",walk with help,5.0,130,85
+Asthma (ICD-10: J45),no_needed,unknown,63,36.8,male,0.0,Chronic Kidney Disease,walk with help,0.0,120,80
+Acute appendicitis (ICD-10: K35),stationary care,0,98,36.9,diverse,180.0,None,walk without help,16.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,3,61,36.3,diverse,0.0,Obesity,walk with help,4.0,130,85
+Chronic kidney disease (ICD-10: N18),mobile care,3,85,36.7,female,0.0,Hypertension,walk without help,6.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,5,86,37.2,male,0.0,Heart Disease,wheelchair,3.0,130,85
+Chronic kidney disease (ICD-10: N18),stationary care,5,86,37.6,female,0.0,"Diabetes, Asthma",walk with help,9.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,unknown,74,36.4,female,0.0,Hypertension,walk with help,6.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,0,67,36.8,diverse,0.0,Chronic Kidney Disease,walk with help,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,5,66,36.9,male,0.0,Chronic Pain,walk without help,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,unknown,99,36.3,male,28.0,Chronic Pain,walk with help,3.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,unknown,71,37.3,diverse,0.0,Hypertension,walk with help,0.0,130,85
+Chronic kidney disease (ICD-10: N18),no_needed,2,72,36.6,female,0.0,Obesity,wheelchair,0.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,0,76,36.9,diverse,0.0,Hypertension,walk without help,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,5,76,36.8,male,0.0,Chronic Kidney Disease,walk without help,0.0,140,90
+Acute appendicitis (ICD-10: K35),mobile care,0,95,36.6,diverse,180.0,Hypertension,wheelchair,18.0,130,85
+Hypertension (ICD-10: I10),no_needed,3,80,37.0,male,0.0,"Diabetes, Asthma",walk without help,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,3,67,36.9,female,0.0,Obesity,walk with help,0.0,120,80
+Acute appendicitis (ICD-10: K35),stationary care,0,64,36.8,male,0.0,"Hypertension, Diabetes",walk with help,17.0,150,95
+Asthma (ICD-10: J45),no_needed,2,85,36.6,female,0.0,"Hypertension, Obesity",wheelchair,0.0,140,90
+Asthma (ICD-10: J45),mobile care,2,75,37.2,female,28.0,"Hypertension, Diabetes",walk without help,7.0,120,80
+Heart failure (ICD-10: I50),short term stationary care,0,95,37.8,male,0.0,Hypertension,walk without help,10.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,5,87,37.1,male,180.0,Chronic Pain,walk without help,9.0,110,70
+Hypertension (ICD-10: I10),no_needed,4,88,37.5,female,0.0,"Hypertension, Diabetes",wheelchair,0.0,110,70
+Hypertension (ICD-10: I10),no_needed,2,71,36.3,diverse,0.0,None,walk with help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,1,96,37.1,male,0.0,Chronic Kidney Disease,wheelchair,3.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,3,89,36.5,female,0.0,"Hypertension, Diabetes",walk with help,9.0,120,80
+Heart failure (ICD-10: I50),home care,0,82,36.3,female,0.0,Heart Disease,wheelchair,13.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,75,36.6,diverse,0.0,Obesity,walk with help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,0,73,37.6,male,28.0,Chronic Kidney Disease,walk without help,6.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,unknown,69,37.5,female,28.0,Chronic Pain,walk without help,6.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,3,66,37.1,diverse,180.0,"Hypertension, Diabetes",walk without help,3.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,3,96,36.2,female,21.0,Obesity,wheelchair,8.0,130,85
+Asthma (ICD-10: J45),no_needed,2,88,36.9,male,0.0,"Hypertension, Obesity",wheelchair,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,2,62,37.2,diverse,0.0,Obesity,wheelchair,0.0,140,90
+Lower back pain (ICD-10: M54),short term stationary care,1,74,37.1,female,0.0,Obesity,walk without help,5.0,110,70
+Hypertension (ICD-10: I10),home care,unknown,95,36.1,diverse,0.0,Chronic Kidney Disease,walk with help,7.0,130,85
+Hypertension (ICD-10: I10),no_needed,0,78,36.6,male,0.0,"Hypertension, Obesity",walk without help,0.0,110,70
+Lower back pain (ICD-10: M54),stationary care,unknown,72,37.0,diverse,0.0,Obesity,walk without help,5.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,3,80,37.3,male,0.0,Heart Disease,walk with help,0.0,110,70
+Acute appendicitis (ICD-10: K35),no_needed,1,96,35.9,female,0.0,"Hypertension, Diabetes",walk with help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,4,86,36.9,male,0.0,"Hypertension, Diabetes",walk with help,0.0,150,95
+Hypertension (ICD-10: I10),no_needed,1,88,37.1,female,0.0,Heart Disease,walk with help,0.0,110,70
+Hypertension (ICD-10: I10),no_needed,5,79,37.4,female,0.0,"Hypertension, Diabetes",walk without help,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,1,84,37.3,male,0.0,Obesity,wheelchair,0.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,unknown,65,37.3,female,0.0,Obesity,walk without help,7.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,5,95,36.6,diverse,0.0,Chronic Kidney Disease,walk with help,5.0,130,85
+Chronic kidney disease (ICD-10: N18),no_needed,5,61,36.0,female,0.0,None,wheelchair,0.0,120,80
+Lower back pain (ICD-10: M54),stationary care,5,81,36.8,male,0.0,Chronic Pain,wheelchair,6.0,150,95
+Asthma (ICD-10: J45),no_needed,4,91,37.5,diverse,0.0,Chronic Pain,walk without help,0.0,110,70
+Hypertension (ICD-10: I10),stationary care,1,75,37.7,diverse,180.0,Obesity,walk without help,6.0,150,95
+Lower back pain (ICD-10: M54),no_needed,unknown,77,37.4,female,0.0,Hypertension,walk without help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,1,64,37.2,female,0.0,None,wheelchair,4.0,110,70
+Hypertension (ICD-10: I10),stationary care,4,95,37.2,male,0.0,Heart Disease,wheelchair,5.0,110,70
+Acute appendicitis (ICD-10: K35),short term stationary care,3,89,36.7,diverse,28.0,Obesity,wheelchair,16.0,120,80
+Lower back pain (ICD-10: M54),home care,2,78,36.9,male,0.0,Hypertension,walk with help,4.0,140,90
+Heart failure (ICD-10: I50),mobile care,unknown,82,37.8,female,0.0,Obesity,walk with help,11.0,130,85
+Hypertension (ICD-10: I10),no_needed,unknown,93,36.5,diverse,0.0,Hypertension,walk without help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,1,72,37.8,male,0.0,Obesity,wheelchair,7.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,2,88,36.8,male,0.0,"Hypertension, Obesity",walk without help,0.0,150,95
+Chronic kidney disease (ICD-10: N18),stationary care,0,95,37.7,male,0.0,"Hypertension, Diabetes",wheelchair,4.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,0,81,36.3,male,180.0,Chronic Pain,walk without help,9.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,4,95,37.3,male,180.0,Chronic Pain,walk with help,5.0,120,80
+Asthma (ICD-10: J45),no_needed,0,68,36.6,diverse,0.0,None,wheelchair,0.0,130,85
+Asthma (ICD-10: J45),mobile care,unknown,98,36.3,male,0.0,"Diabetes, Asthma",walk with help,5.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),home care,0,78,37.1,diverse,0.0,Chronic Pain,wheelchair,6.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,3,97,37.5,male,28.0,"Diabetes, Asthma",walk without help,6.0,130,85
+Heart failure (ICD-10: I50),home care,3,65,36.6,female,180.0,"Hypertension, Obesity",wheelchair,13.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,3,74,36.3,female,0.0,Hypertension,walk with help,9.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,0,79,37.0,male,180.0,None,wheelchair,7.0,110,70
+Hypertension (ICD-10: I10),mobile care,4,68,37.0,female,0.0,"Hypertension, Diabetes",walk without help,8.0,140,90
+Asthma (ICD-10: J45),no_needed,5,91,37.3,diverse,0.0,Heart Disease,wheelchair,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,5,63,37.5,male,0.0,"Diabetes, Asthma",walk with help,0.0,110,70
+Chronic kidney disease (ICD-10: N18),no_needed,2,77,37.0,diverse,0.0,"Hypertension, Diabetes",walk without help,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,5,64,37.9,male,0.0,None,walk with help,0.0,120,80
+Heart failure (ICD-10: I50),no_needed,5,79,37.1,female,0.0,None,wheelchair,0.0,110,70
+Heart failure (ICD-10: I50),home care,3,82,36.8,diverse,0.0,Chronic Pain,walk with help,10.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,3,70,36.2,female,180.0,"Hypertension, Diabetes",wheelchair,7.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,0,96,36.9,female,0.0,Obesity,walk without help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),no_needed,2,81,36.8,male,0.0,Chronic Kidney Disease,walk with help,0.0,130,85
+Asthma (ICD-10: J45),no_needed,1,63,37.5,diverse,0.0,None,walk with help,0.0,120,80
+Heart failure (ICD-10: I50),home care,unknown,88,37.2,female,0.0,"Diabetes, Asthma",wheelchair,13.0,150,95
+Chronic kidney disease (ICD-10: N18),home care,2,93,36.4,male,0.0,Heart Disease,walk with help,5.0,150,95
+Acute appendicitis (ICD-10: K35),no_needed,2,72,37.1,male,0.0,Heart Disease,walk with help,0.0,130,85
+Acute appendicitis (ICD-10: K35),mobile care,4,68,37.3,male,60.0,"Hypertension, Obesity",walk without help,19.0,110,70
+Hypertension (ICD-10: I10),home care,0,90,37.8,female,0.0,"Hypertension, Obesity",wheelchair,9.0,120,80
+Asthma (ICD-10: J45),stationary care,4,66,37.4,male,0.0,Chronic Pain,wheelchair,6.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,2,63,37.4,diverse,0.0,Obesity,walk without help,0.0,150,95
+Heart failure (ICD-10: I50),mobile care,2,78,37.0,diverse,180.0,Chronic Pain,walk without help,12.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,2,89,37.2,female,0.0,Heart Disease,wheelchair,0.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,5,90,37.6,diverse,0.0,Hypertension,walk without help,7.0,120,80
+Heart failure (ICD-10: I50),mobile care,unknown,94,36.3,male,0.0,Heart Disease,walk without help,14.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,unknown,80,36.8,female,0.0,None,walk without help,0.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,4,90,36.6,male,0.0,"Hypertension, Diabetes",wheelchair,7.0,120,80
+Chronic kidney disease (ICD-10: N18),home care,2,78,37.2,female,0.0,"Hypertension, Diabetes",walk without help,3.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,unknown,90,37.6,female,60.0,None,walk with help,8.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),home care,3,91,36.7,male,180.0,None,walk with help,6.0,150,95
+Hypertension (ICD-10: I10),no_needed,unknown,61,35.8,diverse,0.0,Heart Disease,wheelchair,0.0,120,80
+Acute appendicitis (ICD-10: K35),mobile care,0,69,36.8,diverse,0.0,"Hypertension, Diabetes",walk without help,17.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,0,61,37.5,female,0.0,"Hypertension, Diabetes",walk with help,7.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,unknown,61,37.3,male,0.0,"Hypertension, Diabetes",wheelchair,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,3,83,37.2,male,0.0,None,walk with help,0.0,120,80
+Hypertension (ICD-10: I10),no_needed,0,76,36.9,female,0.0,"Hypertension, Obesity",walk without help,0.0,150,95
+Asthma (ICD-10: J45),short term stationary care,5,91,36.4,diverse,0.0,Obesity,wheelchair,8.0,130,85
+Lower back pain (ICD-10: M54),no_needed,unknown,75,37.3,male,0.0,Hypertension,walk with help,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,5,75,36.6,diverse,0.0,None,wheelchair,0.0,110,70
+Heart failure (ICD-10: I50),home care,unknown,98,38.1,diverse,21.0,"Hypertension, Diabetes",walk with help,14.0,140,90
+Acute appendicitis (ICD-10: K35),no_needed,1,90,37.3,female,0.0,"Diabetes, Asthma",walk with help,0.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,1,83,36.7,female,0.0,Heart Disease,walk without help,3.0,120,80
+Acute appendicitis (ICD-10: K35),mobile care,1,60,36.7,diverse,0.0,Heart Disease,walk without help,17.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,0,70,37.0,male,0.0,Obesity,walk with help,0.0,150,95
+Heart failure (ICD-10: I50),mobile care,5,80,36.9,male,0.0,None,wheelchair,14.0,150,95
+Asthma (ICD-10: J45),no_needed,5,63,37.6,female,0.0,Obesity,wheelchair,0.0,110,70
+Acute appendicitis (ICD-10: K35),no_needed,5,66,37.1,diverse,0.0,"Hypertension, Obesity",walk without help,0.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,3,85,36.6,male,0.0,Chronic Kidney Disease,walk with help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,5,71,37.9,male,0.0,Chronic Pain,walk without help,6.0,150,95
+Hypertension (ICD-10: I10),no_needed,3,90,37.0,female,0.0,"Diabetes, Asthma",walk with help,0.0,130,85
+Asthma (ICD-10: J45),no_needed,1,76,37.4,diverse,0.0,Chronic Pain,walk with help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,1,92,36.7,male,0.0,Chronic Kidney Disease,walk without help,0.0,110,70
+Heart failure (ICD-10: I50),home care,0,70,37.2,female,0.0,"Diabetes, Asthma",wheelchair,10.0,130,85
+Lower back pain (ICD-10: M54),mobile care,unknown,87,37.2,male,0.0,Chronic Pain,walk without help,4.0,120,80
+Lower back pain (ICD-10: M54),no_needed,1,91,36.1,male,0.0,"Diabetes, Asthma",walk with help,0.0,120,80
+Heart failure (ICD-10: I50),mobile care,unknown,60,38.0,male,60.0,Obesity,walk without help,13.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,unknown,87,37.6,female,0.0,Hypertension,wheelchair,8.0,130,85
+Lower back pain (ICD-10: M54),no_needed,0,66,36.8,diverse,0.0,"Diabetes, Asthma",wheelchair,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,2,61,36.4,female,0.0,Chronic Kidney Disease,walk with help,0.0,130,85
+Hypertension (ICD-10: I10),home care,2,83,37.2,diverse,0.0,Obesity,walk without help,3.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,4,63,37.0,male,0.0,Obesity,wheelchair,0.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,0,78,37.2,diverse,28.0,"Hypertension, Obesity",walk without help,7.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,4,85,37.1,male,180.0,"Hypertension, Diabetes",wheelchair,8.0,110,70
+Asthma (ICD-10: J45),stationary care,4,70,37.3,male,0.0,Heart Disease,walk with help,6.0,130,85
+Lower back pain (ICD-10: M54),no_needed,2,99,37.7,female,0.0,"Hypertension, Obesity",walk with help,0.0,120,80
+Hypertension (ICD-10: I10),stationary care,0,70,37.3,male,0.0,Chronic Kidney Disease,walk without help,9.0,130,85
+Heart failure (ICD-10: I50),mobile care,2,62,36.5,female,0.0,None,walk with help,10.0,110,70
+Lower back pain (ICD-10: M54),no_needed,4,71,37.7,diverse,0.0,None,wheelchair,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,0,62,37.8,diverse,60.0,Heart Disease,walk with help,7.0,140,90
+Heart failure (ICD-10: I50),mobile care,4,86,38.6,male,180.0,Obesity,wheelchair,14.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,5,61,36.4,female,0.0,Hypertension,wheelchair,6.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,unknown,75,37.1,male,0.0,Chronic Kidney Disease,walk with help,0.0,150,95
+Lower back pain (ICD-10: M54),no_needed,0,61,36.0,female,0.0,Heart Disease,wheelchair,0.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,0,89,37.3,female,180.0,None,wheelchair,4.0,120,80
+Chronic kidney disease (ICD-10: N18),home care,unknown,79,36.7,female,0.0,"Hypertension, Diabetes",walk without help,7.0,120,80
+Lower back pain (ICD-10: M54),no_needed,4,97,38.0,diverse,0.0,Obesity,walk without help,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,5,87,36.6,female,0.0,None,walk without help,0.0,140,90
+Acute appendicitis (ICD-10: K35),no_needed,3,84,36.2,diverse,0.0,Hypertension,walk with help,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,unknown,91,36.8,female,0.0,Heart Disease,walk without help,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,2,69,36.0,diverse,0.0,"Diabetes, Asthma",wheelchair,0.0,120,80
+Heart failure (ICD-10: I50),mobile care,4,99,37.4,diverse,0.0,Hypertension,walk with help,12.0,150,95
+Acute appendicitis (ICD-10: K35),short term stationary care,unknown,92,36.0,diverse,0.0,"Diabetes, Asthma",walk with help,17.0,130,85
+Hypertension (ICD-10: I10),no_needed,unknown,72,37.0,male,0.0,Obesity,walk with help,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,0,96,36.0,female,0.0,Heart Disease,walk with help,0.0,140,90
+Heart failure (ICD-10: I50),stationary care,2,75,36.8,male,180.0,"Hypertension, Obesity",wheelchair,11.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,2,81,37.8,female,0.0,Chronic Kidney Disease,wheelchair,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,2,79,37.2,female,0.0,"Hypertension, Obesity",walk without help,0.0,130,85
+Acute appendicitis (ICD-10: K35),stationary care,unknown,86,36.6,male,0.0,"Hypertension, Obesity",walk with help,18.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,3,75,37.0,diverse,0.0,None,walk without help,0.0,150,95
+Acute appendicitis (ICD-10: K35),home care,1,93,37.0,female,0.0,"Hypertension, Diabetes",wheelchair,19.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,4,91,37.2,diverse,0.0,"Hypertension, Diabetes",walk with help,5.0,150,95
+Hypertension (ICD-10: I10),no_needed,1,85,36.3,male,0.0,Chronic Kidney Disease,wheelchair,0.0,150,95
+Asthma (ICD-10: J45),no_needed,unknown,84,37.3,diverse,0.0,Chronic Pain,walk without help,0.0,150,95
+Lower back pain (ICD-10: M54),no_needed,1,61,35.6,female,0.0,None,wheelchair,0.0,130,85
+Acute appendicitis (ICD-10: K35),no_needed,unknown,71,36.7,female,0.0,Chronic Pain,walk with help,0.0,120,80
+Asthma (ICD-10: J45),short term stationary care,1,99,36.8,female,0.0,"Diabetes, Asthma",walk with help,3.0,150,95
+Heart failure (ICD-10: I50),home care,2,68,37.3,male,0.0,None,walk without help,12.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,5,71,37.0,female,0.0,Heart Disease,walk with help,0.0,130,85
+Hypertension (ICD-10: I10),no_needed,2,85,36.3,male,0.0,Chronic Pain,wheelchair,0.0,120,80
+Acute appendicitis (ICD-10: K35),mobile care,2,68,36.5,diverse,0.0,Chronic Kidney Disease,wheelchair,15.0,140,90
+Asthma (ICD-10: J45),stationary care,0,69,37.1,female,0.0,Chronic Kidney Disease,wheelchair,9.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,0,91,37.0,female,0.0,None,wheelchair,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,1,93,36.7,female,0.0,"Hypertension, Obesity",walk without help,3.0,150,95
+Hypertension (ICD-10: I10),no_needed,unknown,79,36.8,diverse,0.0,Heart Disease,wheelchair,0.0,120,80
+Hypertension (ICD-10: I10),mobile care,2,98,37.3,female,0.0,Obesity,walk without help,4.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,1,61,36.7,male,0.0,Heart Disease,wheelchair,3.0,120,80
+Lower back pain (ICD-10: M54),no_needed,0,60,37.0,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,5,95,38.1,diverse,0.0,"Diabetes, Asthma",wheelchair,4.0,120,80
+Hypertension (ICD-10: I10),no_needed,4,83,36.3,diverse,0.0,Chronic Pain,wheelchair,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,1,86,36.1,diverse,0.0,Chronic Pain,walk without help,0.0,150,95
+Asthma (ICD-10: J45),no_needed,5,61,37.4,diverse,0.0,"Diabetes, Asthma",walk with help,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,4,90,36.7,male,0.0,Hypertension,walk with help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,3,73,36.8,diverse,0.0,None,walk with help,6.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,1,61,36.6,female,0.0,Chronic Kidney Disease,walk without help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,1,88,36.9,diverse,60.0,"Hypertension, Diabetes",walk with help,5.0,130,85
+Heart failure (ICD-10: I50),mobile care,3,74,37.8,diverse,0.0,"Diabetes, Asthma",walk with help,11.0,110,70
+Hypertension (ICD-10: I10),no_needed,3,71,37.4,diverse,0.0,"Diabetes, Asthma",walk without help,0.0,120,80
+Asthma (ICD-10: J45),stationary care,1,96,37.4,diverse,28.0,Heart Disease,walk with help,4.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,3,87,36.3,diverse,0.0,None,walk with help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,2,79,36.4,male,0.0,None,walk with help,3.0,120,80
+Chronic kidney disease (ICD-10: N18),short term stationary care,4,98,35.6,male,0.0,"Hypertension, Diabetes",walk without help,7.0,150,95
+Heart failure (ICD-10: I50),mobile care,4,83,36.6,diverse,0.0,None,walk without help,11.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,4,80,37.5,male,0.0,"Hypertension, Obesity",walk with help,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,2,69,37.3,female,0.0,Chronic Kidney Disease,walk with help,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),home care,unknown,73,36.9,diverse,0.0,"Hypertension, Obesity",walk without help,3.0,110,70
+Asthma (ICD-10: J45),no_needed,3,96,37.0,female,0.0,Hypertension,walk with help,0.0,140,90
+Acute appendicitis (ICD-10: K35),short term stationary care,5,77,36.7,female,0.0,Chronic Kidney Disease,walk without help,16.0,120,80
+Chronic kidney disease (ICD-10: N18),no_needed,3,83,37.1,diverse,0.0,Obesity,walk with help,0.0,150,95
+Lower back pain (ICD-10: M54),stationary care,1,73,37.4,female,0.0,Chronic Kidney Disease,walk without help,9.0,140,90
+Chronic kidney disease (ICD-10: N18),no_needed,0,93,36.2,female,0.0,Chronic Kidney Disease,wheelchair,0.0,140,90
+Acute appendicitis (ICD-10: K35),no_needed,4,71,37.1,female,0.0,"Hypertension, Diabetes",wheelchair,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,3,81,37.5,diverse,0.0,"Hypertension, Obesity",walk without help,0.0,120,80
+Chronic kidney disease (ICD-10: N18),no_needed,5,65,36.8,diverse,0.0,Heart Disease,wheelchair,0.0,150,95
+Asthma (ICD-10: J45),no_needed,1,95,37.4,female,0.0,"Hypertension, Diabetes",walk with help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,2,95,38.4,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,unknown,81,36.9,diverse,0.0,Heart Disease,walk without help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,2,73,37.2,female,0.0,Chronic Pain,walk with help,0.0,120,80
+Acute appendicitis (ICD-10: K35),home care,5,75,36.6,diverse,0.0,Heart Disease,walk with help,19.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,1,95,37.1,male,0.0,"Diabetes, Asthma",walk without help,7.0,140,90
+Hypertension (ICD-10: I10),no_needed,4,84,37.2,diverse,0.0,"Hypertension, Diabetes",walk with help,0.0,130,85
+Heart failure (ICD-10: I50),home care,3,91,37.1,male,0.0,"Hypertension, Diabetes",walk without help,12.0,110,70
+Asthma (ICD-10: J45),no_needed,1,92,36.5,female,0.0,"Diabetes, Asthma",walk with help,0.0,120,80
+Heart failure (ICD-10: I50),short term stationary care,unknown,95,37.1,diverse,0.0,Chronic Pain,walk without help,10.0,110,70
+Lower back pain (ICD-10: M54),no_needed,2,79,37.7,female,0.0,None,walk with help,0.0,110,70
+Hypertension (ICD-10: I10),no_needed,unknown,77,37.2,female,0.0,None,walk with help,0.0,110,70
+Heart failure (ICD-10: I50),stationary care,unknown,97,37.5,female,0.0,None,wheelchair,12.0,120,80
+Heart failure (ICD-10: I50),mobile care,5,62,36.9,female,0.0,None,wheelchair,13.0,120,80
+Chronic kidney disease (ICD-10: N18),no_needed,5,82,37.4,female,0.0,"Hypertension, Obesity",wheelchair,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,3,91,37.1,diverse,0.0,"Diabetes, Asthma",walk with help,4.0,130,85
+Chronic kidney disease (ICD-10: N18),stationary care,5,75,36.5,male,0.0,Chronic Pain,walk without help,7.0,130,85
+Hypertension (ICD-10: I10),mobile care,5,64,37.2,diverse,0.0,Chronic Kidney Disease,walk with help,8.0,150,95
+Hypertension (ICD-10: I10),no_needed,1,63,36.5,diverse,0.0,Hypertension,wheelchair,0.0,150,95
+Acute appendicitis (ICD-10: K35),mobile care,4,80,36.7,diverse,0.0,"Hypertension, Diabetes",walk with help,16.0,110,70
+Chronic kidney disease (ICD-10: N18),short term stationary care,3,99,37.1,diverse,180.0,Heart Disease,wheelchair,9.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,1,73,37.1,male,180.0,None,wheelchair,4.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,4,98,36.4,diverse,180.0,Heart Disease,walk without help,8.0,130,85
+Hypertension (ICD-10: I10),home care,unknown,90,37.5,female,0.0,Hypertension,walk without help,8.0,150,95
+Acute appendicitis (ICD-10: K35),no_needed,1,73,37.3,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,140,90
+Chronic kidney disease (ICD-10: N18),short term stationary care,0,65,36.6,diverse,0.0,Obesity,wheelchair,6.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,1,71,36.2,male,60.0,Chronic Pain,walk with help,8.0,140,90
+Chronic kidney disease (ICD-10: N18),short term stationary care,5,75,36.9,male,28.0,"Hypertension, Obesity",wheelchair,6.0,140,90
+Heart failure (ICD-10: I50),stationary care,4,76,36.8,female,28.0,Heart Disease,walk with help,11.0,110,70
+Acute appendicitis (ICD-10: K35),mobile care,3,82,37.1,diverse,0.0,None,wheelchair,16.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,3,73,36.8,diverse,0.0,"Diabetes, Asthma",walk without help,7.0,110,70
+Lower back pain (ICD-10: M54),no_needed,4,66,36.0,diverse,0.0,Heart Disease,walk without help,0.0,110,70
+Lower back pain (ICD-10: M54),home care,5,91,36.8,female,0.0,"Hypertension, Diabetes",wheelchair,9.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,2,74,36.8,male,0.0,Obesity,walk with help,4.0,130,85
+Chronic kidney disease (ICD-10: N18),no_needed,1,76,37.3,female,0.0,Chronic Pain,walk with help,0.0,140,90
+Acute appendicitis (ICD-10: K35),stationary care,5,93,36.7,diverse,0.0,"Diabetes, Asthma",walk with help,18.0,140,90
+Lower back pain (ICD-10: M54),no_needed,0,64,37.8,male,0.0,"Hypertension, Diabetes",wheelchair,0.0,140,90
+Acute appendicitis (ICD-10: K35),stationary care,unknown,86,36.0,male,0.0,Obesity,wheelchair,17.0,130,85
+Lower back pain (ICD-10: M54),stationary care,4,82,37.7,female,28.0,"Diabetes, Asthma",walk without help,4.0,120,80
+Heart failure (ICD-10: I50),stationary care,1,99,36.9,male,0.0,Heart Disease,walk without help,11.0,120,80
+Chronic kidney disease (ICD-10: N18),no_needed,3,73,37.4,male,0.0,"Hypertension, Diabetes",wheelchair,0.0,110,70
+Heart failure (ICD-10: I50),home care,unknown,74,37.0,diverse,28.0,Chronic Kidney Disease,walk without help,12.0,110,70
+Lower back pain (ICD-10: M54),no_needed,2,92,37.6,diverse,0.0,Obesity,walk with help,0.0,130,85
+Heart failure (ICD-10: I50),mobile care,0,90,36.8,male,0.0,Chronic Kidney Disease,walk with help,13.0,150,95
+Lower back pain (ICD-10: M54),no_needed,3,94,36.5,male,0.0,Chronic Kidney Disease,wheelchair,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,4,76,37.7,female,0.0,"Hypertension, Obesity",walk with help,0.0,110,70
+Heart failure (ICD-10: I50),no_needed,1,87,36.9,female,0.0,Obesity,wheelchair,0.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,4,78,37.1,male,0.0,Chronic Kidney Disease,walk with help,0.0,130,85
+Chronic kidney disease (ICD-10: N18),stationary care,unknown,82,37.6,diverse,0.0,Heart Disease,wheelchair,8.0,130,85
+Hypertension (ICD-10: I10),no_needed,1,91,36.5,male,0.0,"Hypertension, Diabetes",walk with help,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,5,99,37.3,male,0.0,"Hypertension, Diabetes",walk with help,4.0,150,95
+Heart failure (ICD-10: I50),short term stationary care,2,72,36.7,diverse,0.0,Heart Disease,walk without help,14.0,130,85
+Asthma (ICD-10: J45),mobile care,5,79,36.9,diverse,0.0,"Hypertension, Obesity",walk without help,3.0,110,70
+Chronic kidney disease (ICD-10: N18),short term stationary care,5,94,37.0,female,0.0,Chronic Pain,walk without help,3.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,4,64,36.2,female,0.0,"Hypertension, Obesity",walk without help,5.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,unknown,68,36.6,female,0.0,"Hypertension, Diabetes",walk without help,0.0,150,95
+Lower back pain (ICD-10: M54),no_needed,2,88,37.7,female,0.0,Chronic Pain,walk without help,0.0,140,90
+Lower back pain (ICD-10: M54),home care,1,65,37.4,diverse,0.0,"Hypertension, Obesity",wheelchair,5.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,84,37.0,male,0.0,Chronic Kidney Disease,wheelchair,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,0,90,37.1,female,180.0,Chronic Pain,walk without help,4.0,140,90
+Asthma (ICD-10: J45),home care,3,81,36.9,female,0.0,"Hypertension, Diabetes",wheelchair,4.0,110,70
+Hypertension (ICD-10: I10),no_needed,0,61,37.7,diverse,0.0,Heart Disease,walk without help,0.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),home care,0,64,36.9,diverse,0.0,None,wheelchair,8.0,110,70
+Acute appendicitis (ICD-10: K35),mobile care,1,86,37.1,male,180.0,Chronic Kidney Disease,walk with help,17.0,150,95
+Hypertension (ICD-10: I10),no_needed,4,84,37.6,male,0.0,Chronic Kidney Disease,wheelchair,0.0,130,85
+Heart failure (ICD-10: I50),stationary care,5,67,36.6,diverse,180.0,None,wheelchair,13.0,120,80
+Chronic kidney disease (ICD-10: N18),mobile care,unknown,60,37.8,female,180.0,Hypertension,wheelchair,7.0,140,90
+Acute appendicitis (ICD-10: K35),mobile care,5,79,36.2,female,28.0,"Diabetes, Asthma",walk with help,16.0,150,95
+Acute appendicitis (ICD-10: K35),short term stationary care,5,82,37.8,female,0.0,Obesity,walk without help,16.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,2,91,36.8,male,0.0,"Hypertension, Obesity",wheelchair,5.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,1,70,36.9,female,0.0,Hypertension,wheelchair,8.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,unknown,98,36.1,female,0.0,"Hypertension, Obesity",walk with help,0.0,150,95
+Heart failure (ICD-10: I50),no_needed,4,83,36.8,diverse,0.0,Hypertension,walk without help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,2,70,36.5,female,0.0,Chronic Pain,wheelchair,6.0,130,85
+Heart failure (ICD-10: I50),home care,3,88,36.7,diverse,0.0,Heart Disease,walk with help,12.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,4,85,36.9,female,0.0,Obesity,walk without help,9.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),home care,0,75,37.5,male,0.0,Obesity,walk without help,5.0,150,95
+Acute appendicitis (ICD-10: K35),stationary care,4,94,37.1,female,0.0,"Hypertension, Obesity",wheelchair,18.0,150,95
+Asthma (ICD-10: J45),home care,4,79,37.2,female,0.0,None,wheelchair,5.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,5,62,36.5,diverse,21.0,Chronic Pain,wheelchair,4.0,140,90
+Heart failure (ICD-10: I50),mobile care,4,60,36.6,diverse,0.0,Obesity,wheelchair,13.0,120,80
+Hypertension (ICD-10: I10),no_needed,0,60,37.9,diverse,0.0,"Diabetes, Asthma",walk with help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,0,76,36.6,female,0.0,"Hypertension, Obesity",walk with help,8.0,140,90
+Chronic kidney disease (ICD-10: N18),mobile care,1,61,37.8,female,0.0,Chronic Kidney Disease,wheelchair,3.0,130,85
+Hypertension (ICD-10: I10),no_needed,4,88,36.9,male,0.0,"Diabetes, Asthma",walk without help,0.0,110,70
+Chronic kidney disease (ICD-10: N18),no_needed,5,79,37.0,female,0.0,"Hypertension, Diabetes",wheelchair,0.0,130,85
+Asthma (ICD-10: J45),no_needed,4,65,37.5,male,0.0,"Hypertension, Obesity",walk without help,0.0,110,70
+Hypertension (ICD-10: I10),no_needed,3,67,37.6,diverse,0.0,"Hypertension, Obesity",walk without help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),home care,3,88,36.9,diverse,28.0,Chronic Kidney Disease,walk without help,8.0,120,80
+Lower back pain (ICD-10: M54),no_needed,5,92,36.8,diverse,0.0,Chronic Pain,walk with help,0.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,62,37.0,male,0.0,Chronic Kidney Disease,walk without help,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,1,94,37.2,female,0.0,Obesity,walk without help,0.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,0,64,37.4,diverse,0.0,Heart Disease,walk with help,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,0,86,37.0,female,0.0,"Hypertension, Obesity",walk without help,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,2,71,37.3,female,0.0,"Hypertension, Diabetes",walk without help,0.0,130,85
+Acute appendicitis (ICD-10: K35),stationary care,5,79,37.8,diverse,0.0,None,wheelchair,17.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,4,79,37.2,male,0.0,"Hypertension, Obesity",walk without help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,unknown,68,37.2,female,0.0,Chronic Kidney Disease,walk without help,0.0,120,80
+Acute appendicitis (ICD-10: K35),short term stationary care,5,98,36.2,diverse,0.0,Hypertension,walk without help,15.0,140,90
+Chronic kidney disease (ICD-10: N18),no_needed,2,63,35.7,female,0.0,"Hypertension, Obesity",walk without help,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,0,78,37.2,female,0.0,"Hypertension, Obesity",walk without help,0.0,150,95
+Chronic kidney disease (ICD-10: N18),stationary care,5,97,37.0,female,0.0,"Hypertension, Diabetes",walk with help,5.0,120,80
+Hypertension (ICD-10: I10),no_needed,5,86,36.7,female,0.0,"Hypertension, Diabetes",walk without help,0.0,150,95
+Hypertension (ICD-10: I10),no_needed,0,72,37.1,female,0.0,"Hypertension, Obesity",walk without help,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,2,72,37.0,male,0.0,Hypertension,walk with help,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,0,81,37.6,male,0.0,Heart Disease,walk with help,5.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,87,37.0,diverse,0.0,Hypertension,walk without help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,4,81,36.6,male,28.0,Hypertension,walk without help,3.0,140,90
+Heart failure (ICD-10: I50),short term stationary care,0,78,37.5,male,0.0,Hypertension,walk without help,13.0,110,70
+Chronic kidney disease (ICD-10: N18),no_needed,2,67,36.9,male,0.0,Heart Disease,wheelchair,0.0,130,85
+Asthma (ICD-10: J45),no_needed,3,67,37.3,female,0.0,Chronic Pain,wheelchair,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,1,85,36.8,female,0.0,Chronic Pain,walk without help,7.0,110,70
+Asthma (ICD-10: J45),no_needed,3,85,36.7,diverse,0.0,Hypertension,walk with help,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,unknown,82,37.0,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,130,85
+Asthma (ICD-10: J45),home care,0,72,37.0,diverse,0.0,"Diabetes, Asthma",walk with help,4.0,150,95
+Acute appendicitis (ICD-10: K35),no_needed,1,87,37.2,female,0.0,Chronic Pain,walk with help,0.0,110,70
+Asthma (ICD-10: J45),no_needed,4,68,36.9,male,0.0,None,walk with help,0.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,0,79,36.1,male,0.0,"Hypertension, Diabetes",walk without help,8.0,120,80
+Lower back pain (ICD-10: M54),no_needed,4,78,36.8,female,0.0,Heart Disease,walk without help,0.0,110,70
+Chronic kidney disease (ICD-10: N18),no_needed,5,98,37.4,diverse,0.0,Heart Disease,walk with help,0.0,120,80
+Acute appendicitis (ICD-10: K35),home care,3,71,36.9,diverse,0.0,"Diabetes, Asthma",wheelchair,17.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,1,74,36.9,diverse,0.0,Chronic Pain,wheelchair,8.0,150,95
+Hypertension (ICD-10: I10),no_needed,4,90,37.5,female,0.0,"Hypertension, Diabetes",wheelchair,0.0,150,95
+Chronic kidney disease (ICD-10: N18),mobile care,2,73,36.6,diverse,28.0,Hypertension,walk with help,8.0,140,90
+Hypertension (ICD-10: I10),no_needed,4,70,36.2,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,150,95
+Lower back pain (ICD-10: M54),no_needed,2,85,36.9,female,0.0,Chronic Pain,walk with help,0.0,110,70
+Acute appendicitis (ICD-10: K35),short term stationary care,0,86,36.8,male,0.0,"Diabetes, Asthma",wheelchair,19.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,1,70,36.5,female,0.0,"Hypertension, Diabetes",walk without help,6.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,97,36.9,female,0.0,"Hypertension, Obesity",walk with help,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,unknown,93,37.2,female,0.0,"Hypertension, Diabetes",walk with help,5.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,4,78,37.0,female,0.0,"Hypertension, Obesity",wheelchair,0.0,150,95
+Lower back pain (ICD-10: M54),no_needed,unknown,65,37.2,male,0.0,None,walk with help,0.0,130,85
+Chronic kidney disease (ICD-10: N18),stationary care,1,97,37.9,diverse,0.0,Obesity,walk without help,4.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,4,87,36.8,female,0.0,"Hypertension, Diabetes",wheelchair,0.0,140,90
+Asthma (ICD-10: J45),mobile care,2,60,37.1,male,0.0,"Diabetes, Asthma",wheelchair,7.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,4,94,36.7,diverse,0.0,"Diabetes, Asthma",walk without help,0.0,150,95
+Lower back pain (ICD-10: M54),no_needed,3,99,36.6,diverse,0.0,Chronic Kidney Disease,wheelchair,0.0,140,90
+Heart failure (ICD-10: I50),stationary care,0,67,36.7,diverse,0.0,Hypertension,walk with help,11.0,110,70
+Asthma (ICD-10: J45),short term stationary care,5,66,36.8,female,0.0,"Hypertension, Diabetes",walk with help,3.0,110,70
+Hypertension (ICD-10: I10),no_needed,2,70,37.2,female,0.0,Obesity,wheelchair,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,3,98,38.2,diverse,0.0,Chronic Pain,walk without help,0.0,150,95
+Hypertension (ICD-10: I10),no_needed,unknown,63,36.6,diverse,0.0,"Diabetes, Asthma",walk with help,0.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,0,84,36.8,diverse,0.0,None,walk without help,4.0,150,95
+Hypertension (ICD-10: I10),no_needed,1,71,37.0,diverse,0.0,Heart Disease,walk with help,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,2,85,37.2,diverse,0.0,"Diabetes, Asthma",walk with help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),no_needed,5,97,37.1,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,0,71,37.6,male,28.0,None,wheelchair,4.0,140,90
+Hypertension (ICD-10: I10),no_needed,unknown,96,35.8,diverse,0.0,Heart Disease,walk without help,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,5,83,35.8,female,0.0,"Hypertension, Obesity",wheelchair,0.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,1,75,36.8,female,0.0,Obesity,walk with help,3.0,150,95
+Chronic kidney disease (ICD-10: N18),stationary care,1,72,37.5,female,0.0,"Diabetes, Asthma",walk with help,8.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,unknown,84,36.2,diverse,0.0,"Hypertension, Diabetes",walk without help,4.0,140,90
+Hypertension (ICD-10: I10),no_needed,2,63,35.5,female,0.0,Heart Disease,walk without help,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,unknown,70,37.3,male,0.0,Heart Disease,walk with help,0.0,140,90
+Heart failure (ICD-10: I50),no_needed,4,91,37.1,diverse,0.0,Hypertension,wheelchair,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,66,36.5,female,0.0,Heart Disease,wheelchair,0.0,150,95
+Hypertension (ICD-10: I10),home care,0,70,36.5,male,0.0,Obesity,walk without help,9.0,140,90
+Lower back pain (ICD-10: M54),no_needed,4,87,36.5,male,0.0,None,walk without help,0.0,140,90
+Lower back pain (ICD-10: M54),stationary care,3,82,37.1,female,0.0,None,walk with help,3.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),home care,5,82,36.7,male,28.0,Heart Disease,walk with help,5.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,4,87,37.2,female,180.0,"Hypertension, Diabetes",walk without help,9.0,140,90
+Lower back pain (ICD-10: M54),no_needed,5,85,35.6,male,0.0,"Diabetes, Asthma",walk with help,0.0,130,85
+Heart failure (ICD-10: I50),short term stationary care,unknown,84,36.6,diverse,0.0,"Hypertension, Diabetes",walk without help,13.0,120,80
+Lower back pain (ICD-10: M54),no_needed,4,88,36.4,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,unknown,78,36.9,diverse,0.0,"Diabetes, Asthma",wheelchair,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,3,92,36.7,diverse,0.0,"Hypertension, Obesity",walk without help,0.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,1,95,37.4,diverse,0.0,Obesity,walk with help,0.0,140,90
+Hypertension (ICD-10: I10),mobile care,3,73,36.1,female,60.0,"Hypertension, Diabetes",wheelchair,8.0,140,90
+Lower back pain (ICD-10: M54),no_needed,1,73,37.0,diverse,0.0,Hypertension,wheelchair,0.0,150,95
+Chronic kidney disease (ICD-10: N18),short term stationary care,unknown,94,37.3,diverse,0.0,None,walk with help,3.0,150,95
+Hypertension (ICD-10: I10),mobile care,1,89,37.9,diverse,0.0,Heart Disease,walk with help,9.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,5,87,36.8,diverse,0.0,"Diabetes, Asthma",walk with help,3.0,130,85
+Acute appendicitis (ICD-10: K35),short term stationary care,0,76,37.2,male,0.0,Heart Disease,walk without help,16.0,140,90
+Hypertension (ICD-10: I10),no_needed,3,62,36.1,diverse,0.0,"Hypertension, Obesity",wheelchair,0.0,120,80
+Hypertension (ICD-10: I10),no_needed,4,75,35.8,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,110,70
+Asthma (ICD-10: J45),no_needed,3,89,37.4,female,0.0,Heart Disease,walk without help,0.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,5,88,37.0,male,0.0,"Hypertension, Diabetes",walk without help,0.0,150,95
+Asthma (ICD-10: J45),home care,1,74,37.6,female,0.0,"Diabetes, Asthma",walk without help,7.0,140,90
+Heart failure (ICD-10: I50),mobile care,5,84,36.3,diverse,0.0,Hypertension,wheelchair,14.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,2,97,37.3,female,0.0,"Hypertension, Obesity",wheelchair,0.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,2,97,37.9,female,0.0,Obesity,walk without help,0.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,82,37.2,diverse,0.0,Chronic Kidney Disease,walk with help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,5,84,37.1,male,0.0,"Hypertension, Diabetes",wheelchair,7.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,unknown,66,37.0,male,0.0,Obesity,walk without help,0.0,120,80
+Hypertension (ICD-10: I10),no_needed,4,81,36.2,female,0.0,Hypertension,walk with help,0.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),home care,unknown,76,37.7,diverse,0.0,Obesity,walk with help,8.0,140,90
+Lower back pain (ICD-10: M54),no_needed,4,77,36.7,female,0.0,None,walk without help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,2,69,37.3,female,0.0,"Diabetes, Asthma",wheelchair,3.0,130,85
+Hypertension (ICD-10: I10),no_needed,4,69,36.2,female,0.0,Obesity,walk with help,0.0,110,70
+Heart failure (ICD-10: I50),short term stationary care,2,66,36.4,diverse,21.0,"Hypertension, Diabetes",wheelchair,13.0,150,95
+Lower back pain (ICD-10: M54),no_needed,1,97,37.7,diverse,0.0,None,wheelchair,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,unknown,86,36.8,male,0.0,None,walk with help,0.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,5,92,37.7,diverse,0.0,Obesity,walk without help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,4,60,37.0,female,0.0,Chronic Kidney Disease,walk with help,9.0,150,95
+Heart failure (ICD-10: I50),short term stationary care,2,93,36.1,female,60.0,Chronic Pain,walk with help,13.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,3,63,37.4,male,0.0,Chronic Kidney Disease,wheelchair,0.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,unknown,76,36.7,diverse,28.0,Heart Disease,walk without help,7.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,4,63,37.3,female,180.0,"Hypertension, Diabetes",wheelchair,5.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,0,85,37.0,male,0.0,Chronic Pain,walk with help,7.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,1,63,36.2,male,28.0,"Diabetes, Asthma",walk without help,3.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,1,60,37.1,female,0.0,None,walk without help,5.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,3,66,38.1,female,0.0,"Hypertension, Diabetes",walk without help,4.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,2,89,37.2,diverse,0.0,Hypertension,walk without help,3.0,140,90
+Acute appendicitis (ICD-10: K35),mobile care,4,68,37.0,male,0.0,Heart Disease,walk without help,17.0,150,95
+Chronic kidney disease (ICD-10: N18),stationary care,unknown,94,37.5,female,180.0,Heart Disease,walk with help,4.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,2,67,37.1,male,0.0,"Hypertension, Diabetes",walk with help,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,1,83,37.1,diverse,0.0,"Diabetes, Asthma",walk with help,0.0,130,85
+Asthma (ICD-10: J45),mobile care,2,78,36.5,female,0.0,None,wheelchair,4.0,140,90
+Heart failure (ICD-10: I50),short term stationary care,1,95,37.1,diverse,28.0,"Hypertension, Obesity",walk without help,11.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,2,86,37.5,male,0.0,"Hypertension, Obesity",walk without help,0.0,110,70
+Hypertension (ICD-10: I10),no_needed,3,91,36.6,diverse,0.0,"Hypertension, Diabetes",walk with help,0.0,150,95
+Lower back pain (ICD-10: M54),short term stationary care,5,73,37.7,diverse,0.0,Obesity,walk without help,8.0,120,80
+Acute appendicitis (ICD-10: K35),mobile care,3,77,37.0,male,0.0,Chronic Kidney Disease,wheelchair,19.0,140,90
+Asthma (ICD-10: J45),no_needed,3,87,36.6,diverse,0.0,Heart Disease,walk without help,0.0,120,80
+Hypertension (ICD-10: I10),no_needed,5,88,37.5,male,0.0,"Diabetes, Asthma",walk without help,0.0,120,80
+Hypertension (ICD-10: I10),no_needed,5,75,36.9,female,0.0,Heart Disease,wheelchair,0.0,130,85
+Acute appendicitis (ICD-10: K35),home care,4,94,37.4,male,0.0,Hypertension,walk with help,18.0,140,90
+Asthma (ICD-10: J45),no_needed,unknown,90,36.9,male,0.0,"Hypertension, Obesity",walk with help,0.0,120,80
+Lower back pain (ICD-10: M54),stationary care,unknown,63,37.0,female,0.0,None,walk without help,8.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,4,96,37.2,male,0.0,Hypertension,wheelchair,3.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,3,76,37.1,female,0.0,None,walk with help,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,3,98,36.0,female,0.0,Heart Disease,walk with help,0.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,1,85,36.4,male,0.0,"Diabetes, Asthma",walk with help,4.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,1,98,37.5,diverse,0.0,"Hypertension, Obesity",walk without help,3.0,150,95
+Chronic kidney disease (ICD-10: N18),stationary care,unknown,63,36.9,diverse,0.0,Heart Disease,wheelchair,6.0,130,85
+Heart failure (ICD-10: I50),home care,4,89,36.7,female,0.0,"Hypertension, Obesity",walk without help,11.0,110,70
+Heart failure (ICD-10: I50),short term stationary care,0,89,36.3,diverse,21.0,"Hypertension, Diabetes",walk with help,10.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,0,81,36.5,diverse,180.0,None,wheelchair,6.0,120,80
+Asthma (ICD-10: J45),no_needed,4,70,36.0,male,0.0,Heart Disease,walk without help,0.0,140,90
+Acute appendicitis (ICD-10: K35),short term stationary care,1,61,36.9,female,28.0,Chronic Pain,walk with help,19.0,140,90
+Asthma (ICD-10: J45),mobile care,unknown,71,36.7,female,0.0,"Hypertension, Obesity",walk with help,9.0,110,70
+Acute appendicitis (ICD-10: K35),short term stationary care,unknown,89,36.5,male,0.0,"Hypertension, Obesity",walk without help,17.0,110,70
+Asthma (ICD-10: J45),no_needed,1,95,37.0,diverse,0.0,Chronic Pain,walk with help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,0,77,37.2,female,0.0,Obesity,walk with help,4.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,2,85,38.0,diverse,0.0,Heart Disease,wheelchair,0.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,2,66,36.2,female,0.0,Chronic Pain,walk with help,4.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,1,60,37.6,female,0.0,"Hypertension, Obesity",walk without help,5.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,2,85,37.5,female,0.0,Heart Disease,wheelchair,4.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,5,82,36.6,female,28.0,"Diabetes, Asthma",walk without help,8.0,150,95
+Lower back pain (ICD-10: M54),no_needed,4,85,37.1,diverse,0.0,"Diabetes, Asthma",walk with help,0.0,120,80
+Lower back pain (ICD-10: M54),short term stationary care,4,65,36.8,diverse,0.0,None,wheelchair,5.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,1,65,37.1,diverse,28.0,Obesity,wheelchair,6.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,3,67,37.8,diverse,60.0,"Diabetes, Asthma",wheelchair,8.0,130,85
+Lower back pain (ICD-10: M54),home care,0,83,37.3,male,21.0,Obesity,wheelchair,5.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,81,37.3,female,0.0,None,walk without help,0.0,110,70
+Hypertension (ICD-10: I10),no_needed,2,78,36.8,female,0.0,"Hypertension, Diabetes",walk with help,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,0,96,36.3,female,0.0,Hypertension,walk with help,0.0,110,70
+Chronic kidney disease (ICD-10: N18),stationary care,3,77,36.9,male,0.0,None,wheelchair,3.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,2,90,37.6,diverse,60.0,Chronic Kidney Disease,walk with help,5.0,130,85
+Hypertension (ICD-10: I10),stationary care,unknown,96,36.2,female,0.0,Obesity,walk without help,9.0,120,80
+Chronic kidney disease (ICD-10: N18),mobile care,5,89,36.5,diverse,0.0,"Diabetes, Asthma",walk with help,4.0,110,70
+Chronic kidney disease (ICD-10: N18),home care,2,92,37.1,diverse,0.0,"Diabetes, Asthma",walk without help,5.0,110,70
+Chronic kidney disease (ICD-10: N18),no_needed,5,69,36.5,male,0.0,Heart Disease,walk without help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,0,96,36.6,male,0.0,"Hypertension, Obesity",walk with help,0.0,150,95
+Asthma (ICD-10: J45),stationary care,5,71,36.8,diverse,0.0,"Diabetes, Asthma",walk without help,5.0,140,90
+Hypertension (ICD-10: I10),no_needed,0,89,36.3,female,0.0,Chronic Pain,walk without help,0.0,140,90
+Acute appendicitis (ICD-10: K35),no_needed,0,86,36.5,female,0.0,"Hypertension, Obesity",walk without help,0.0,150,95
+Hypertension (ICD-10: I10),no_needed,0,98,37.4,male,0.0,Chronic Pain,walk without help,0.0,120,80
+Asthma (ICD-10: J45),stationary care,0,68,36.3,male,0.0,Obesity,wheelchair,8.0,140,90
+Hypertension (ICD-10: I10),no_needed,0,80,36.2,male,0.0,Chronic Kidney Disease,walk with help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,2,71,36.7,male,0.0,"Hypertension, Obesity",wheelchair,8.0,110,70
+Acute appendicitis (ICD-10: K35),stationary care,0,88,37.4,male,28.0,Obesity,walk without help,16.0,150,95
+Asthma (ICD-10: J45),home care,2,92,36.9,male,28.0,"Diabetes, Asthma",walk with help,3.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,0,74,36.8,male,180.0,Chronic Kidney Disease,walk without help,4.0,120,80
+Heart failure (ICD-10: I50),short term stationary care,5,61,37.0,female,180.0,"Hypertension, Diabetes",walk with help,10.0,120,80
+Asthma (ICD-10: J45),no_needed,unknown,98,36.1,male,0.0,"Diabetes, Asthma",wheelchair,0.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,0,77,37.2,male,0.0,Hypertension,walk with help,0.0,110,70
+Asthma (ICD-10: J45),home care,3,62,37.2,female,0.0,None,walk without help,8.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,0,66,36.8,female,28.0,"Hypertension, Obesity",walk with help,5.0,150,95
+Heart failure (ICD-10: I50),mobile care,0,77,37.5,diverse,60.0,Hypertension,walk with help,11.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,5,97,36.4,male,28.0,"Hypertension, Obesity",wheelchair,8.0,120,80
+Heart failure (ICD-10: I50),home care,4,96,37.6,male,0.0,None,walk without help,11.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,5,92,37.1,male,60.0,"Hypertension, Obesity",walk with help,4.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,3,90,36.8,male,0.0,Obesity,wheelchair,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,4,70,37.0,diverse,0.0,Chronic Pain,walk with help,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,1,63,36.9,female,0.0,Heart Disease,walk without help,4.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,1,77,37.6,female,0.0,Obesity,walk with help,5.0,130,85
+Heart failure (ICD-10: I50),mobile care,3,63,36.5,male,0.0,None,walk with help,13.0,130,85
+Lower back pain (ICD-10: M54),no_needed,5,93,36.6,male,0.0,"Hypertension, Obesity",walk with help,0.0,110,70
+Heart failure (ICD-10: I50),home care,2,88,37.5,male,0.0,Obesity,walk with help,13.0,130,85
+Chronic kidney disease (ICD-10: N18),mobile care,3,83,36.7,diverse,0.0,Chronic Pain,walk without help,4.0,130,85
+Hypertension (ICD-10: I10),mobile care,unknown,81,37.5,diverse,180.0,Hypertension,wheelchair,6.0,140,90
+Heart failure (ICD-10: I50),home care,4,61,37.8,female,0.0,Obesity,wheelchair,11.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,65,36.8,male,0.0,Hypertension,walk with help,0.0,130,85
+Chronic kidney disease (ICD-10: N18),no_needed,0,84,37.3,male,0.0,None,walk without help,0.0,130,85
+Hypertension (ICD-10: I10),no_needed,1,80,36.4,male,0.0,Hypertension,walk without help,0.0,110,70
+Acute appendicitis (ICD-10: K35),short term stationary care,4,75,37.4,male,0.0,"Hypertension, Obesity",walk without help,17.0,150,95
+Chronic kidney disease (ICD-10: N18),stationary care,3,90,37.1,diverse,0.0,Chronic Kidney Disease,walk without help,5.0,110,70
+Acute appendicitis (ICD-10: K35),home care,4,73,37.2,female,0.0,Chronic Kidney Disease,walk without help,16.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,3,98,36.7,female,0.0,"Hypertension, Diabetes",walk without help,0.0,150,95
+Chronic kidney disease (ICD-10: N18),home care,2,87,36.2,diverse,0.0,"Hypertension, Obesity",walk with help,4.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,0,91,37.3,male,0.0,None,wheelchair,0.0,110,70
+Acute appendicitis (ICD-10: K35),mobile care,1,87,36.0,female,0.0,"Diabetes, Asthma",wheelchair,18.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,68,36.8,female,0.0,Chronic Kidney Disease,walk with help,0.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,3,81,37.5,diverse,0.0,None,wheelchair,0.0,110,70
+Asthma (ICD-10: J45),no_needed,5,91,37.1,male,0.0,Hypertension,walk without help,0.0,130,85
+Asthma (ICD-10: J45),no_needed,1,64,38.0,female,0.0,Obesity,walk without help,0.0,110,70
+Hypertension (ICD-10: I10),mobile care,2,82,37.5,male,60.0,Chronic Kidney Disease,wheelchair,9.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,3,64,36.7,female,0.0,"Hypertension, Obesity",walk without help,9.0,110,70
+Chronic kidney disease (ICD-10: N18),home care,unknown,91,37.0,diverse,0.0,Chronic Kidney Disease,walk without help,9.0,150,95
+Lower back pain (ICD-10: M54),short term stationary care,unknown,69,37.0,male,0.0,Chronic Pain,wheelchair,9.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),home care,0,98,36.2,diverse,0.0,Chronic Pain,walk with help,8.0,110,70
+Acute appendicitis (ICD-10: K35),home care,0,74,36.5,female,60.0,Chronic Pain,wheelchair,16.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,2,66,36.7,diverse,0.0,Chronic Kidney Disease,wheelchair,0.0,130,85
+Asthma (ICD-10: J45),no_needed,2,88,36.0,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),home care,0,62,37.0,diverse,0.0,None,wheelchair,9.0,130,85
+Lower back pain (ICD-10: M54),short term stationary care,4,78,36.9,female,0.0,Chronic Pain,walk with help,4.0,130,85
+Chronic kidney disease (ICD-10: N18),stationary care,4,69,36.2,male,0.0,Hypertension,walk with help,9.0,140,90
+Hypertension (ICD-10: I10),no_needed,3,87,37.2,diverse,0.0,"Hypertension, Obesity",walk without help,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,5,88,37.4,male,0.0,Heart Disease,walk without help,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,3,74,37.1,female,0.0,Chronic Pain,wheelchair,0.0,130,85
+Lower back pain (ICD-10: M54),no_needed,5,94,36.8,male,0.0,None,walk without help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),home care,2,65,37.3,diverse,0.0,Hypertension,walk with help,4.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),home care,1,71,37.3,diverse,0.0,"Hypertension, Obesity",walk without help,8.0,110,70
+Heart failure (ICD-10: I50),stationary care,3,97,37.2,diverse,0.0,Obesity,walk without help,10.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,3,72,36.6,diverse,0.0,"Diabetes, Asthma",walk without help,0.0,120,80
+Asthma (ICD-10: J45),no_needed,5,88,37.1,diverse,0.0,Hypertension,wheelchair,0.0,130,85
+Heart failure (ICD-10: I50),mobile care,2,78,37.6,diverse,0.0,"Hypertension, Diabetes",walk without help,10.0,120,80
+Chronic kidney disease (ICD-10: N18),stationary care,2,62,36.7,female,0.0,Hypertension,walk with help,8.0,130,85
+Heart failure (ICD-10: I50),stationary care,unknown,67,38.0,female,180.0,Hypertension,walk with help,11.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,5,67,36.7,female,0.0,"Hypertension, Diabetes",walk with help,8.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,2,79,37.0,male,0.0,Obesity,walk with help,7.0,120,80
+Asthma (ICD-10: J45),home care,0,63,36.7,male,28.0,Chronic Kidney Disease,walk without help,6.0,150,95
+Lower back pain (ICD-10: M54),no_needed,4,80,37.1,female,0.0,"Hypertension, Obesity",wheelchair,0.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,unknown,62,36.1,male,0.0,Hypertension,walk with help,0.0,130,85
+Asthma (ICD-10: J45),no_needed,0,67,36.7,male,0.0,Hypertension,walk with help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,82,36.5,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,3,75,37.1,diverse,0.0,None,wheelchair,0.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,unknown,72,37.5,male,0.0,Hypertension,walk with help,0.0,130,85
+Acute appendicitis (ICD-10: K35),no_needed,1,62,37.3,male,0.0,Hypertension,walk with help,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,3,68,35.8,female,0.0,"Hypertension, Diabetes",wheelchair,4.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,4,73,38.0,male,0.0,None,walk with help,8.0,120,80
+Hypertension (ICD-10: I10),no_needed,2,72,37.1,diverse,0.0,"Hypertension, Diabetes",walk with help,0.0,110,70
+Asthma (ICD-10: J45),short term stationary care,0,66,36.6,male,60.0,Hypertension,walk without help,9.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,5,74,37.1,female,0.0,Chronic Pain,wheelchair,0.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,0,66,37.1,diverse,0.0,"Hypertension, Obesity",walk without help,3.0,150,95
+Chronic kidney disease (ICD-10: N18),home care,4,97,36.7,diverse,0.0,None,walk without help,4.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,1,93,37.1,diverse,0.0,Chronic Pain,wheelchair,5.0,150,95
+Asthma (ICD-10: J45),stationary care,5,81,36.7,diverse,0.0,"Hypertension, Diabetes",walk without help,7.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,2,83,36.8,male,180.0,Hypertension,walk with help,6.0,110,70
+Lower back pain (ICD-10: M54),no_needed,4,96,36.7,female,0.0,"Hypertension, Diabetes",walk without help,0.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,5,60,36.3,male,0.0,Chronic Kidney Disease,wheelchair,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,69,37.1,male,0.0,Chronic Kidney Disease,walk with help,0.0,110,70
+Acute appendicitis (ICD-10: K35),home care,4,75,37.3,diverse,0.0,Hypertension,walk with help,19.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,2,67,37.3,female,0.0,Hypertension,walk with help,9.0,140,90
+Acute appendicitis (ICD-10: K35),no_needed,unknown,84,37.4,diverse,0.0,Chronic Pain,walk with help,0.0,130,85
+Hypertension (ICD-10: I10),no_needed,3,71,37.2,male,0.0,Heart Disease,walk without help,0.0,110,70
+Acute appendicitis (ICD-10: K35),short term stationary care,5,84,36.7,male,28.0,Hypertension,walk without help,15.0,140,90
+Hypertension (ICD-10: I10),no_needed,2,76,37.4,diverse,0.0,None,walk with help,0.0,120,80
+Hypertension (ICD-10: I10),no_needed,4,85,36.3,male,0.0,None,wheelchair,0.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,2,73,36.5,male,28.0,"Hypertension, Diabetes",walk with help,8.0,150,95
+Lower back pain (ICD-10: M54),no_needed,unknown,95,36.5,diverse,0.0,Chronic Pain,walk without help,0.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,3,82,37.5,male,0.0,Obesity,walk with help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,0,65,37.5,female,0.0,"Diabetes, Asthma",walk without help,4.0,150,95
+Hypertension (ICD-10: I10),home care,5,64,37.2,diverse,28.0,"Hypertension, Diabetes",walk with help,7.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),short term stationary care,3,84,37.5,female,0.0,Hypertension,wheelchair,3.0,150,95
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,1,77,36.6,male,0.0,"Hypertension, Diabetes",walk with help,0.0,120,80
+Asthma (ICD-10: J45),stationary care,5,72,37.2,male,0.0,Obesity,wheelchair,5.0,110,70
+Lower back pain (ICD-10: M54),no_needed,3,73,36.9,diverse,0.0,"Diabetes, Asthma",wheelchair,0.0,130,85
+Heart failure (ICD-10: I50),stationary care,4,87,37.4,male,28.0,Obesity,walk with help,14.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,5,77,36.9,diverse,0.0,Obesity,wheelchair,0.0,110,70
+Asthma (ICD-10: J45),short term stationary care,5,87,36.8,diverse,0.0,Chronic Kidney Disease,wheelchair,3.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,2,86,37.3,diverse,0.0,None,walk without help,9.0,150,95
+Acute appendicitis (ICD-10: K35),no_needed,4,91,37.4,diverse,0.0,Heart Disease,walk without help,0.0,140,90
+Hypertension (ICD-10: I10),home care,1,68,36.7,diverse,0.0,Hypertension,wheelchair,3.0,110,70
+Lower back pain (ICD-10: M54),no_needed,0,99,37.0,female,0.0,Chronic Pain,walk with help,0.0,150,95
+Chronic kidney disease (ICD-10: N18),short term stationary care,unknown,91,36.5,diverse,0.0,"Hypertension, Diabetes",wheelchair,7.0,140,90
+Hypertension (ICD-10: I10),no_needed,3,79,35.8,female,0.0,Hypertension,walk with help,0.0,110,70
+Chronic kidney disease (ICD-10: N18),mobile care,2,87,37.1,male,0.0,Chronic Kidney Disease,walk without help,3.0,140,90
+Asthma (ICD-10: J45),mobile care,3,92,37.3,diverse,0.0,None,walk with help,4.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,63,37.1,male,0.0,"Hypertension, Diabetes",wheelchair,0.0,130,85
+Heart failure (ICD-10: I50),no_needed,1,93,36.0,diverse,0.0,Chronic Pain,wheelchair,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,5,62,36.8,female,0.0,Heart Disease,wheelchair,8.0,120,80
+Hypertension (ICD-10: I10),home care,unknown,85,35.9,female,0.0,Hypertension,wheelchair,3.0,140,90
+Lower back pain (ICD-10: M54),no_needed,1,67,37.7,female,0.0,None,wheelchair,0.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,3,65,36.5,male,60.0,"Hypertension, Obesity",walk with help,6.0,140,90
+Lower back pain (ICD-10: M54),mobile care,4,75,37.6,diverse,180.0,Hypertension,wheelchair,6.0,140,90
+Asthma (ICD-10: J45),no_needed,4,83,37.5,male,0.0,Obesity,walk without help,0.0,110,70
+Chronic kidney disease (ICD-10: N18),stationary care,5,98,36.5,female,0.0,Obesity,wheelchair,7.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,0,89,36.4,male,0.0,"Diabetes, Asthma",walk with help,9.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,3,72,37.2,female,0.0,None,wheelchair,7.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,3,64,36.6,female,0.0,Obesity,wheelchair,7.0,150,95
+Hypertension (ICD-10: I10),no_needed,1,84,37.1,female,0.0,Heart Disease,walk with help,0.0,110,70
+Asthma (ICD-10: J45),no_needed,unknown,79,36.8,diverse,0.0,Heart Disease,wheelchair,0.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,3,77,36.1,diverse,0.0,Obesity,walk with help,0.0,120,80
+Asthma (ICD-10: J45),no_needed,2,77,35.9,female,0.0,None,wheelchair,0.0,150,95
+Chronic kidney disease (ICD-10: N18),home care,0,61,37.1,male,0.0,Chronic Kidney Disease,walk without help,7.0,130,85
+Lower back pain (ICD-10: M54),no_needed,1,69,36.7,male,0.0,Chronic Pain,wheelchair,0.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,2,71,36.7,diverse,0.0,Chronic Pain,walk with help,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,5,72,37.3,female,0.0,None,walk without help,0.0,150,95
+Lower back pain (ICD-10: M54),short term stationary care,4,70,37.6,male,0.0,"Hypertension, Obesity",walk with help,3.0,150,95
+Lower back pain (ICD-10: M54),no_needed,5,78,36.9,female,0.0,Chronic Pain,wheelchair,0.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,4,94,36.8,male,28.0,"Hypertension, Diabetes",walk without help,9.0,130,85
+Acute appendicitis (ICD-10: K35),stationary care,5,98,37.3,diverse,60.0,Chronic Pain,walk with help,15.0,120,80
+Chronic kidney disease (ICD-10: N18),stationary care,3,85,36.3,female,0.0,"Hypertension, Diabetes",walk without help,3.0,110,70
+Chronic kidney disease (ICD-10: N18),home care,2,73,37.1,female,0.0,Obesity,walk without help,4.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),home care,4,83,37.3,male,0.0,Chronic Kidney Disease,walk with help,9.0,150,95
+Asthma (ICD-10: J45),no_needed,1,60,37.3,male,0.0,Chronic Kidney Disease,walk without help,0.0,120,80
+Asthma (ICD-10: J45),mobile care,2,81,36.0,male,0.0,Chronic Pain,walk with help,6.0,110,70
+Heart failure (ICD-10: I50),home care,1,82,36.6,female,28.0,Chronic Pain,walk without help,14.0,120,80
+Asthma (ICD-10: J45),no_needed,2,78,36.6,diverse,0.0,None,walk without help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,2,77,37.0,diverse,60.0,Chronic Pain,walk without help,9.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,5,71,37.2,male,0.0,"Diabetes, Asthma",wheelchair,8.0,120,80
+Hypertension (ICD-10: I10),no_needed,4,87,37.7,diverse,0.0,"Diabetes, Asthma",wheelchair,0.0,130,85
+Heart failure (ICD-10: I50),short term stationary care,4,87,36.8,male,180.0,"Hypertension, Obesity",walk with help,10.0,130,85
+Hypertension (ICD-10: I10),stationary care,unknown,92,36.8,diverse,0.0,Obesity,walk without help,5.0,140,90
+Chronic kidney disease (ICD-10: N18),stationary care,2,78,37.6,female,0.0,"Hypertension, Diabetes",walk with help,5.0,150,95
+Hypertension (ICD-10: I10),no_needed,3,87,37.1,male,0.0,Chronic Kidney Disease,wheelchair,0.0,140,90
+Hypertension (ICD-10: I10),mobile care,3,96,37.6,diverse,0.0,Obesity,wheelchair,4.0,130,85
+Heart failure (ICD-10: I50),short term stationary care,1,85,37.1,female,0.0,"Hypertension, Diabetes",wheelchair,11.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,1,94,36.4,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,150,95
+Lower back pain (ICD-10: M54),no_needed,5,93,36.3,female,0.0,Hypertension,walk with help,0.0,150,95
+Asthma (ICD-10: J45),no_needed,2,94,36.2,female,0.0,Chronic Pain,walk without help,0.0,120,80
+Asthma (ICD-10: J45),no_needed,1,99,37.3,diverse,0.0,"Hypertension, Obesity",walk with help,0.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,1,75,37.6,diverse,0.0,Chronic Pain,walk without help,4.0,120,80
+Heart failure (ICD-10: I50),mobile care,0,97,37.9,female,0.0,"Hypertension, Obesity",wheelchair,12.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,2,72,37.4,female,0.0,Obesity,walk without help,8.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,5,82,37.6,female,0.0,None,wheelchair,3.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,1,81,36.7,male,0.0,None,walk with help,8.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,5,75,36.4,female,0.0,Obesity,walk without help,8.0,150,95
+Heart failure (ICD-10: I50),home care,4,87,37.4,male,0.0,"Diabetes, Asthma",walk with help,14.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,5,94,37.2,female,0.0,"Hypertension, Diabetes",wheelchair,3.0,150,95
+Asthma (ICD-10: J45),no_needed,3,67,37.1,male,0.0,"Hypertension, Obesity",walk with help,0.0,130,85
+Acute appendicitis (ICD-10: K35),home care,3,81,37.2,female,0.0,Heart Disease,wheelchair,16.0,150,95
+Hypertension (ICD-10: I10),no_needed,5,80,37.2,female,0.0,Chronic Pain,wheelchair,0.0,140,90
+Acute appendicitis (ICD-10: K35),no_needed,3,85,37.6,female,0.0,Obesity,wheelchair,0.0,150,95
+Heart failure (ICD-10: I50),stationary care,4,99,37.6,diverse,60.0,"Hypertension, Diabetes",walk with help,14.0,150,95
+Acute appendicitis (ICD-10: K35),home care,2,80,37.3,diverse,0.0,"Hypertension, Obesity",walk with help,19.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,3,84,37.4,female,0.0,Chronic Kidney Disease,walk without help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),short term stationary care,3,60,37.3,male,0.0,Chronic Pain,walk without help,6.0,110,70
+Hypertension (ICD-10: I10),short term stationary care,5,65,36.8,male,0.0,None,walk with help,3.0,120,80
+Lower back pain (ICD-10: M54),no_needed,4,82,37.4,female,0.0,Obesity,walk with help,0.0,110,70
+Heart failure (ICD-10: I50),home care,unknown,82,36.3,diverse,0.0,None,walk with help,11.0,130,85
+Hypertension (ICD-10: I10),no_needed,unknown,82,37.5,male,0.0,"Hypertension, Obesity",walk with help,0.0,110,70
+Acute appendicitis (ICD-10: K35),home care,unknown,91,36.4,diverse,0.0,None,wheelchair,15.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,unknown,89,37.1,male,0.0,Chronic Pain,wheelchair,0.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,2,72,36.6,female,0.0,"Diabetes, Asthma",wheelchair,0.0,120,80
+Lower back pain (ICD-10: M54),no_needed,5,77,37.3,diverse,0.0,"Hypertension, Diabetes",walk with help,0.0,120,80
+Hypertension (ICD-10: I10),short term stationary care,5,82,37.0,male,0.0,"Diabetes, Asthma",wheelchair,5.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,0,74,36.2,female,0.0,Obesity,wheelchair,0.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),home care,4,92,37.2,female,0.0,"Diabetes, Asthma",walk without help,7.0,120,80
+Acute appendicitis (ICD-10: K35),short term stationary care,unknown,80,36.7,female,28.0,Hypertension,walk without help,18.0,110,70
+Asthma (ICD-10: J45),no_needed,2,98,37.4,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,140,90
+Acute appendicitis (ICD-10: K35),home care,4,82,37.0,diverse,0.0,"Hypertension, Obesity",wheelchair,17.0,140,90
+Asthma (ICD-10: J45),home care,unknown,86,37.2,female,0.0,"Hypertension, Diabetes",wheelchair,5.0,130,85
+Asthma (ICD-10: J45),stationary care,2,77,36.5,diverse,0.0,Hypertension,walk with help,6.0,120,80
+Lower back pain (ICD-10: M54),stationary care,4,83,36.7,male,0.0,Heart Disease,walk without help,6.0,110,70
+Acute appendicitis (ICD-10: K35),short term stationary care,5,99,36.8,female,0.0,"Diabetes, Asthma",walk without help,19.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,5,66,37.4,female,0.0,"Hypertension, Diabetes",walk without help,0.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,1,79,37.8,diverse,0.0,None,wheelchair,8.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,3,86,36.6,female,0.0,"Hypertension, Obesity",walk with help,7.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,unknown,65,37.5,male,0.0,Chronic Kidney Disease,walk without help,0.0,140,90
+Acute appendicitis (ICD-10: K35),home care,0,86,35.9,diverse,0.0,Obesity,walk without help,16.0,110,70
+Lower back pain (ICD-10: M54),no_needed,4,68,36.4,diverse,0.0,Obesity,walk with help,0.0,120,80
+Acute appendicitis (ICD-10: K35),stationary care,0,90,36.5,female,0.0,Obesity,wheelchair,15.0,140,90
+Asthma (ICD-10: J45),no_needed,1,80,36.3,female,0.0,"Hypertension, Diabetes",wheelchair,0.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,3,85,36.2,female,0.0,"Diabetes, Asthma",walk without help,6.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,99,37.2,diverse,0.0,"Hypertension, Diabetes",walk without help,0.0,140,90
+Asthma (ICD-10: J45),no_needed,2,72,36.9,female,0.0,Chronic Pain,walk with help,0.0,140,90
+Heart failure (ICD-10: I50),mobile care,unknown,82,37.2,male,0.0,None,walk without help,10.0,120,80
+Asthma (ICD-10: J45),no_needed,3,79,37.3,female,0.0,Chronic Kidney Disease,walk with help,0.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,5,96,37.1,female,0.0,Chronic Kidney Disease,walk without help,7.0,130,85
+Chronic kidney disease (ICD-10: N18),no_needed,1,87,37.3,diverse,0.0,None,walk without help,0.0,150,95
+Hypertension (ICD-10: I10),home care,3,76,37.0,female,28.0,Hypertension,walk without help,8.0,150,95
+Asthma (ICD-10: J45),stationary care,unknown,87,36.4,diverse,0.0,Chronic Pain,wheelchair,3.0,150,95
+Acute appendicitis (ICD-10: K35),home care,3,61,37.5,female,0.0,"Hypertension, Obesity",walk with help,15.0,130,85
+Acute appendicitis (ICD-10: K35),no_needed,unknown,84,36.7,male,0.0,Chronic Kidney Disease,walk with help,0.0,150,95
+Lower back pain (ICD-10: M54),no_needed,5,65,36.5,male,0.0,Obesity,wheelchair,0.0,150,95
+Asthma (ICD-10: J45),no_needed,4,70,36.9,diverse,0.0,"Hypertension, Diabetes",wheelchair,0.0,140,90
+Lower back pain (ICD-10: M54),mobile care,2,97,36.5,diverse,0.0,Hypertension,wheelchair,9.0,120,80
+Asthma (ICD-10: J45),no_needed,5,65,36.8,female,0.0,None,walk with help,0.0,120,80
+Hypertension (ICD-10: I10),short term stationary care,2,70,37.2,female,0.0,Heart Disease,walk without help,5.0,140,90
+Chronic kidney disease (ICD-10: N18),short term stationary care,4,73,37.2,male,0.0,"Hypertension, Obesity",wheelchair,3.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),home care,3,61,36.6,female,0.0,Obesity,wheelchair,3.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,2,99,36.8,male,0.0,Chronic Kidney Disease,wheelchair,9.0,120,80
+Asthma (ICD-10: J45),stationary care,1,62,37.5,diverse,0.0,"Hypertension, Diabetes",walk without help,7.0,150,95
+Chronic kidney disease (ICD-10: N18),mobile care,1,94,37.2,female,0.0,None,walk without help,7.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),mobile care,unknown,92,38.0,diverse,0.0,"Hypertension, Obesity",wheelchair,8.0,130,85
+Heart failure (ICD-10: I50),mobile care,5,83,37.6,female,0.0,Heart Disease,walk without help,13.0,140,90
+Hypertension (ICD-10: I10),no_needed,4,78,37.6,male,0.0,Hypertension,wheelchair,0.0,110,70
+Lower back pain (ICD-10: M54),no_needed,unknown,77,36.3,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,140,90
+Lower back pain (ICD-10: M54),no_needed,5,83,37.4,diverse,0.0,"Hypertension, Diabetes",walk with help,0.0,120,80
+Acute appendicitis (ICD-10: K35),short term stationary care,5,94,37.0,female,0.0,Obesity,walk with help,15.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),stationary care,unknown,60,36.7,diverse,0.0,None,walk without help,6.0,110,70
+Heart failure (ICD-10: I50),mobile care,0,95,37.1,male,0.0,None,walk with help,10.0,130,85
+Chronic kidney disease (ICD-10: N18),home care,5,84,37.5,diverse,0.0,Hypertension,walk with help,9.0,150,95
+Hypertension (ICD-10: I10),short term stationary care,0,93,37.3,diverse,0.0,"Diabetes, Asthma",walk with help,6.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,1,84,36.6,female,0.0,"Diabetes, Asthma",wheelchair,0.0,110,70
+Heart failure (ICD-10: I50),stationary care,1,75,37.4,diverse,0.0,Obesity,walk without help,11.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,5,93,36.7,female,60.0,Heart Disease,walk without help,3.0,130,85
+Asthma (ICD-10: J45),stationary care,1,88,37.1,female,0.0,None,walk without help,7.0,120,80
+Lower back pain (ICD-10: M54),no_needed,4,78,36.8,diverse,0.0,None,walk with help,0.0,140,90
+Chronic kidney disease (ICD-10: N18),home care,0,82,36.9,male,0.0,None,wheelchair,4.0,110,70
+Lower back pain (ICD-10: M54),no_needed,0,78,37.4,female,0.0,Hypertension,walk without help,0.0,130,85
+Chronic kidney disease (ICD-10: N18),mobile care,5,84,36.5,diverse,0.0,"Diabetes, Asthma",walk with help,9.0,150,95
+Acute appendicitis (ICD-10: K35),no_needed,1,75,38.0,female,0.0,Chronic Pain,wheelchair,0.0,110,70
+Chronic kidney disease (ICD-10: N18),short term stationary care,2,68,36.1,male,0.0,"Hypertension, Obesity",wheelchair,6.0,130,85
+Lower back pain (ICD-10: M54),no_needed,unknown,60,36.7,male,0.0,Hypertension,walk without help,0.0,120,80
+Chronic kidney disease (ICD-10: N18),short term stationary care,unknown,78,37.2,female,180.0,Chronic Kidney Disease,walk without help,6.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,0,92,37.3,male,28.0,Heart Disease,walk with help,3.0,110,70
+Acute appendicitis (ICD-10: K35),no_needed,5,93,36.9,diverse,0.0,Heart Disease,walk without help,0.0,110,70
+Chronic kidney disease (ICD-10: N18),no_needed,5,75,37.0,diverse,0.0,"Hypertension, Obesity",walk with help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,99,37.2,female,0.0,Heart Disease,wheelchair,0.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,3,77,36.9,male,0.0,Heart Disease,wheelchair,0.0,110,70
+Heart failure (ICD-10: I50),mobile care,3,93,37.7,diverse,0.0,Chronic Pain,wheelchair,13.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,0,84,37.4,diverse,0.0,Heart Disease,wheelchair,3.0,140,90
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,unknown,65,37.4,diverse,0.0,None,walk without help,0.0,110,70
+Hypertension (ICD-10: I10),home care,4,80,36.5,female,0.0,Hypertension,walk without help,8.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,4,65,37.0,female,0.0,"Diabetes, Asthma",walk with help,4.0,130,85
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,4,91,36.8,diverse,0.0,Heart Disease,walk with help,0.0,130,85
+Asthma (ICD-10: J45),no_needed,0,98,36.5,diverse,0.0,Obesity,walk with help,0.0,120,80
+Chronic kidney disease (ICD-10: N18),short term stationary care,3,90,37.2,male,0.0,Obesity,walk with help,7.0,110,70
+Heart failure (ICD-10: I50),mobile care,unknown,69,36.7,male,0.0,Obesity,walk with help,13.0,130,85
+Acute appendicitis (ICD-10: K35),no_needed,4,89,37.3,male,0.0,Heart Disease,wheelchair,0.0,110,70
+Diabetes mellitus type 1 (ICD-10: E10),home care,unknown,77,36.5,female,28.0,Chronic Kidney Disease,wheelchair,9.0,110,70
+Lower back pain (ICD-10: M54),no_needed,1,83,37.9,diverse,0.0,None,wheelchair,0.0,140,90
+Asthma (ICD-10: J45),no_needed,5,68,36.6,female,0.0,"Hypertension, Diabetes",walk with help,0.0,120,80
+Hypertension (ICD-10: I10),short term stationary care,5,90,37.1,diverse,0.0,Heart Disease,wheelchair,8.0,110,70
+Hypertension (ICD-10: I10),stationary care,unknown,74,37.4,male,0.0,Chronic Kidney Disease,wheelchair,3.0,150,95
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,2,63,36.7,male,0.0,"Hypertension, Diabetes",wheelchair,0.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,2,99,37.4,male,0.0,"Hypertension, Obesity",wheelchair,3.0,130,85
+Lower back pain (ICD-10: M54),no_needed,0,68,36.4,male,0.0,Chronic Pain,walk without help,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,0,68,37.7,diverse,0.0,None,walk with help,0.0,130,85
+Heart failure (ICD-10: I50),home care,5,85,37.0,male,0.0,Heart Disease,walk with help,14.0,130,85
+Hypertension (ICD-10: I10),mobile care,1,63,36.7,diverse,0.0,Hypertension,walk without help,4.0,120,80
+Acute appendicitis (ICD-10: K35),no_needed,3,76,36.9,diverse,0.0,Hypertension,wheelchair,0.0,130,85
+Chronic kidney disease (ICD-10: N18),stationary care,3,75,37.4,female,0.0,Hypertension,wheelchair,5.0,110,70
+Hypertension (ICD-10: I10),no_needed,0,74,36.7,male,0.0,"Hypertension, Obesity",wheelchair,0.0,130,85
+Acute appendicitis (ICD-10: K35),no_needed,1,94,36.6,male,0.0,"Hypertension, Obesity",walk with help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,0,64,36.9,female,0.0,"Hypertension, Diabetes",walk with help,0.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,3,64,36.4,diverse,0.0,"Hypertension, Obesity",walk with help,0.0,150,95
+Asthma (ICD-10: J45),no_needed,unknown,79,37.9,male,0.0,Obesity,walk with help,0.0,140,90
+Hypertension (ICD-10: I10),no_needed,0,74,36.7,diverse,0.0,Chronic Pain,walk with help,0.0,130,85
+Heart failure (ICD-10: I50),stationary care,4,77,37.4,female,28.0,Obesity,walk without help,12.0,140,90
+Hypertension (ICD-10: I10),short term stationary care,unknown,61,37.1,diverse,0.0,Heart Disease,walk with help,4.0,120,80
+Heart failure (ICD-10: I50),short term stationary care,0,88,36.5,male,0.0,"Hypertension, Diabetes",wheelchair,12.0,140,90
+Chronic obstructive pulmonary disease (ICD-10: J44),home care,5,72,37.0,diverse,0.0,Chronic Kidney Disease,walk with help,3.0,110,70
+Asthma (ICD-10: J45),no_needed,0,63,37.4,diverse,0.0,"Hypertension, Diabetes",walk without help,0.0,120,80
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,5,69,36.9,male,0.0,Chronic Kidney Disease,wheelchair,0.0,150,95
+Hypertension (ICD-10: I10),no_needed,1,90,37.6,male,0.0,Chronic Pain,walk without help,0.0,110,70
+Asthma (ICD-10: J45),no_needed,3,67,37.5,diverse,0.0,"Hypertension, Obesity",wheelchair,0.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,unknown,62,37.5,diverse,0.0,"Hypertension, Obesity",walk with help,0.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),home care,unknown,68,36.8,female,0.0,Heart Disease,walk without help,5.0,130,85
+Hypertension (ICD-10: I10),mobile care,2,89,36.5,male,0.0,Hypertension,wheelchair,4.0,110,70
+Chronic obstructive pulmonary disease (ICD-10: J44),no_needed,2,70,36.7,diverse,0.0,"Diabetes, Asthma",walk with help,0.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),no_needed,3,94,37.1,male,0.0,"Hypertension, Diabetes",wheelchair,0.0,110,70
+Diabetes mellitus type 2 (ICD-10: E11),short term stationary care,2,96,37.3,female,0.0,"Hypertension, Diabetes",walk without help,7.0,120,80
+Diabetes mellitus type 1 (ICD-10: E10),no_needed,unknown,72,35.9,diverse,0.0,Heart Disease,walk without help,0.0,120,80
+Hypertension (ICD-10: I10),short term stationary care,0,95,37.0,diverse,0.0,Obesity,walk without help,4.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),stationary care,1,72,37.1,diverse,180.0,None,walk without help,5.0,140,90
+Diabetes mellitus type 1 (ICD-10: E10),home care,1,71,36.9,male,0.0,Heart Disease,walk with help,4.0,130,85
+Chronic obstructive pulmonary disease (ICD-10: J44),mobile care,3,96,37.6,female,0.0,"Diabetes, Asthma",wheelchair,9.0,150,95
+Acute appendicitis (ICD-10: K35),stationary care,2,69,37.2,male,0.0,"Hypertension, Obesity",walk with help,17.0,120,80
+Hypertension (ICD-10: I10),no_needed,0,68,37.7,diverse,0.0,Chronic Kidney Disease,walk without help,0.0,110,70
+Asthma (ICD-10: J45),mobile care,1,66,36.9,female,28.0,Obesity,wheelchair,4.0,120,80
+Heart failure (ICD-10: I50),no_needed,1,61,37.5,diverse,0.0,Obesity,walk without help,0.0,110,70
+Heart failure (ICD-10: I50),mobile care,4,82,37.8,diverse,0.0,Chronic Pain,walk with help,13.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,4,98,37.7,male,0.0,"Diabetes, Asthma",walk with help,6.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),short term stationary care,unknown,99,36.5,diverse,0.0,Obesity,walk with help,7.0,120,80
+Diabetes mellitus type 2 (ICD-10: E11),home care,1,98,36.9,female,28.0,"Diabetes, Asthma",wheelchair,5.0,110,70
+Hypertension (ICD-10: I10),short term stationary care,3,80,36.8,diverse,0.0,Heart Disease,wheelchair,8.0,150,95
+Heart failure (ICD-10: I50),home care,5,82,37.2,diverse,0.0,Chronic Kidney Disease,walk without help,13.0,130,85
+Heart failure (ICD-10: I50),home care,5,88,37.3,male,28.0,Chronic Kidney Disease,wheelchair,11.0,130,85
+Diabetes mellitus type 2 (ICD-10: E11),mobile care,0,73,36.6,female,0.0,"Hypertension, Diabetes",wheelchair,5.0,110,70
+Heart failure (ICD-10: I50),mobile care,1,85,37.0,male,0.0,"Hypertension, Obesity",walk with help,13.0,120,80
+Asthma (ICD-10: J45),no_needed,1,64,36.0,diverse,0.0,"Hypertension, Diabetes",walk without help,0.0,150,95
+Hypertension (ICD-10: I10),no_needed,unknown,90,37.7,male,0.0,Obesity,walk with help,0.0,120,80
+Chronic kidney disease (ICD-10: N18),stationary care,1,84,36.7,male,28.0,Chronic Pain,walk without help,4.0,130,85
+Heart failure (ICD-10: I50),mobile care,3,90,37.0,male,0.0,"Hypertension, Diabetes",walk without help,11.0,150,95
+Chronic obstructive pulmonary disease (ICD-10: J44),stationary care,4,79,36.8,male,0.0,"Hypertension, Diabetes",wheelchair,6.0,120,80
